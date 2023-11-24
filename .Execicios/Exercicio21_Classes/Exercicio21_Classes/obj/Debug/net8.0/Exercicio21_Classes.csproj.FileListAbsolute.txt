@@ -1,0 +1,14 @@
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio21_Classes\Exercicio21_Classes\bin\Debug\net8.0\Exercicio21_Classes.exe
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio21_Classes\Exercicio21_Classes\bin\Debug\net8.0\Exercicio21_Classes.deps.json
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio21_Classes\Exercicio21_Classes\bin\Debug\net8.0\Exercicio21_Classes.runtimeconfig.json
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio21_Classes\Exercicio21_Classes\bin\Debug\net8.0\Exercicio21_Classes.dll
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio21_Classes\Exercicio21_Classes\bin\Debug\net8.0\Exercicio21_Classes.pdb
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio21_Classes\Exercicio21_Classes\obj\Debug\net8.0\Exercicio21_Classes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio21_Classes\Exercicio21_Classes\obj\Debug\net8.0\Exercicio21_Classes.AssemblyInfoInputs.cache
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio21_Classes\Exercicio21_Classes\obj\Debug\net8.0\Exercicio21_Classes.AssemblyInfo.cs
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio21_Classes\Exercicio21_Classes\obj\Debug\net8.0\Exercicio21_Classes.csproj.CoreCompileInputs.cache
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio21_Classes\Exercicio21_Classes\obj\Debug\net8.0\Exercicio21_Classes.dll
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio21_Classes\Exercicio21_Classes\obj\Debug\net8.0\refint\Exercicio21_Classes.dll
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio21_Classes\Exercicio21_Classes\obj\Debug\net8.0\Exercicio21_Classes.pdb
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio21_Classes\Exercicio21_Classes\obj\Debug\net8.0\Exercicio21_Classes.genruntimeconfig.cache
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio21_Classes\Exercicio21_Classes\obj\Debug\net8.0\ref\Exercicio21_Classes.dll

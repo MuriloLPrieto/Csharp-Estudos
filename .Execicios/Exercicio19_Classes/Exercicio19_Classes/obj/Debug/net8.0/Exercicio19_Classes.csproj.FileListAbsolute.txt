@@ -1,0 +1,14 @@
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio19_Classes\Exercicio19_Classes\bin\Debug\net8.0\Exercicio19_Classes.exe
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio19_Classes\Exercicio19_Classes\bin\Debug\net8.0\Exercicio19_Classes.deps.json
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio19_Classes\Exercicio19_Classes\bin\Debug\net8.0\Exercicio19_Classes.runtimeconfig.json
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio19_Classes\Exercicio19_Classes\bin\Debug\net8.0\Exercicio19_Classes.dll
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio19_Classes\Exercicio19_Classes\bin\Debug\net8.0\Exercicio19_Classes.pdb
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio19_Classes\Exercicio19_Classes\obj\Debug\net8.0\Exercicio19_Classes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio19_Classes\Exercicio19_Classes\obj\Debug\net8.0\Exercicio19_Classes.AssemblyInfoInputs.cache
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio19_Classes\Exercicio19_Classes\obj\Debug\net8.0\Exercicio19_Classes.AssemblyInfo.cs
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio19_Classes\Exercicio19_Classes\obj\Debug\net8.0\Exercicio19_Classes.csproj.CoreCompileInputs.cache
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio19_Classes\Exercicio19_Classes\obj\Debug\net8.0\Exercicio19_Classes.dll
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio19_Classes\Exercicio19_Classes\obj\Debug\net8.0\refint\Exercicio19_Classes.dll
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio19_Classes\Exercicio19_Classes\obj\Debug\net8.0\Exercicio19_Classes.pdb
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio19_Classes\Exercicio19_Classes\obj\Debug\net8.0\Exercicio19_Classes.genruntimeconfig.cache
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio19_Classes\Exercicio19_Classes\obj\Debug\net8.0\ref\Exercicio19_Classes.dll

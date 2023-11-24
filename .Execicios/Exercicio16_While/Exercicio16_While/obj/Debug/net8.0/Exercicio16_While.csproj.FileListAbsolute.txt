@@ -1,0 +1,14 @@
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio16_While\Exercicio16_While\bin\Debug\net8.0\Exercicio16_While.exe
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio16_While\Exercicio16_While\bin\Debug\net8.0\Exercicio16_While.deps.json
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio16_While\Exercicio16_While\bin\Debug\net8.0\Exercicio16_While.runtimeconfig.json
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio16_While\Exercicio16_While\bin\Debug\net8.0\Exercicio16_While.dll
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio16_While\Exercicio16_While\bin\Debug\net8.0\Exercicio16_While.pdb
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio16_While\Exercicio16_While\obj\Debug\net8.0\Exercicio16_While.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio16_While\Exercicio16_While\obj\Debug\net8.0\Exercicio16_While.AssemblyInfoInputs.cache
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio16_While\Exercicio16_While\obj\Debug\net8.0\Exercicio16_While.AssemblyInfo.cs
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio16_While\Exercicio16_While\obj\Debug\net8.0\Exercicio16_While.csproj.CoreCompileInputs.cache
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio16_While\Exercicio16_While\obj\Debug\net8.0\Exercicio16_While.dll
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio16_While\Exercicio16_While\obj\Debug\net8.0\refint\Exercicio16_While.dll
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio16_While\Exercicio16_While\obj\Debug\net8.0\Exercicio16_While.pdb
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio16_While\Exercicio16_While\obj\Debug\net8.0\Exercicio16_While.genruntimeconfig.cache
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio16_While\Exercicio16_While\obj\Debug\net8.0\ref\Exercicio16_While.dll

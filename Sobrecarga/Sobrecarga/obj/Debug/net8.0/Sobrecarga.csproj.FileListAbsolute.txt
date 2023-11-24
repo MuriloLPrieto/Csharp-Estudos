@@ -1,0 +1,14 @@
+D:\Codigos\Estudo\Csharp\Sobrecarga\Sobrecarga\bin\Debug\net8.0\Sobrecarga.exe
+D:\Codigos\Estudo\Csharp\Sobrecarga\Sobrecarga\bin\Debug\net8.0\Sobrecarga.deps.json
+D:\Codigos\Estudo\Csharp\Sobrecarga\Sobrecarga\bin\Debug\net8.0\Sobrecarga.runtimeconfig.json
+D:\Codigos\Estudo\Csharp\Sobrecarga\Sobrecarga\bin\Debug\net8.0\Sobrecarga.dll
+D:\Codigos\Estudo\Csharp\Sobrecarga\Sobrecarga\bin\Debug\net8.0\Sobrecarga.pdb
+D:\Codigos\Estudo\Csharp\Sobrecarga\Sobrecarga\obj\Debug\net8.0\Sobrecarga.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codigos\Estudo\Csharp\Sobrecarga\Sobrecarga\obj\Debug\net8.0\Sobrecarga.AssemblyInfoInputs.cache
+D:\Codigos\Estudo\Csharp\Sobrecarga\Sobrecarga\obj\Debug\net8.0\Sobrecarga.AssemblyInfo.cs
+D:\Codigos\Estudo\Csharp\Sobrecarga\Sobrecarga\obj\Debug\net8.0\Sobrecarga.csproj.CoreCompileInputs.cache
+D:\Codigos\Estudo\Csharp\Sobrecarga\Sobrecarga\obj\Debug\net8.0\Sobrecarga.dll
+D:\Codigos\Estudo\Csharp\Sobrecarga\Sobrecarga\obj\Debug\net8.0\refint\Sobrecarga.dll
+D:\Codigos\Estudo\Csharp\Sobrecarga\Sobrecarga\obj\Debug\net8.0\Sobrecarga.pdb
+D:\Codigos\Estudo\Csharp\Sobrecarga\Sobrecarga\obj\Debug\net8.0\Sobrecarga.genruntimeconfig.cache
+D:\Codigos\Estudo\Csharp\Sobrecarga\Sobrecarga\obj\Debug\net8.0\ref\Sobrecarga.dll

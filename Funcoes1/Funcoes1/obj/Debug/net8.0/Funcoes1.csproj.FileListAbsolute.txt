@@ -1,0 +1,14 @@
+D:\Codigos\Estudo\Csharp\Funcoes1\Funcoes1\bin\Debug\net8.0\Funcoes1.exe
+D:\Codigos\Estudo\Csharp\Funcoes1\Funcoes1\bin\Debug\net8.0\Funcoes1.deps.json
+D:\Codigos\Estudo\Csharp\Funcoes1\Funcoes1\bin\Debug\net8.0\Funcoes1.runtimeconfig.json
+D:\Codigos\Estudo\Csharp\Funcoes1\Funcoes1\bin\Debug\net8.0\Funcoes1.dll
+D:\Codigos\Estudo\Csharp\Funcoes1\Funcoes1\bin\Debug\net8.0\Funcoes1.pdb
+D:\Codigos\Estudo\Csharp\Funcoes1\Funcoes1\obj\Debug\net8.0\Funcoes1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codigos\Estudo\Csharp\Funcoes1\Funcoes1\obj\Debug\net8.0\Funcoes1.AssemblyInfoInputs.cache
+D:\Codigos\Estudo\Csharp\Funcoes1\Funcoes1\obj\Debug\net8.0\Funcoes1.AssemblyInfo.cs
+D:\Codigos\Estudo\Csharp\Funcoes1\Funcoes1\obj\Debug\net8.0\Funcoes1.csproj.CoreCompileInputs.cache
+D:\Codigos\Estudo\Csharp\Funcoes1\Funcoes1\obj\Debug\net8.0\Funcoes1.dll
+D:\Codigos\Estudo\Csharp\Funcoes1\Funcoes1\obj\Debug\net8.0\refint\Funcoes1.dll
+D:\Codigos\Estudo\Csharp\Funcoes1\Funcoes1\obj\Debug\net8.0\Funcoes1.pdb
+D:\Codigos\Estudo\Csharp\Funcoes1\Funcoes1\obj\Debug\net8.0\Funcoes1.genruntimeconfig.cache
+D:\Codigos\Estudo\Csharp\Funcoes1\Funcoes1\obj\Debug\net8.0\ref\Funcoes1.dll

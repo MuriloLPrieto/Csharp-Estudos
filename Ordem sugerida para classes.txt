@@ -1,0 +1,30 @@
+Ordem sugerida para classes:
+
+1- Atributos privados, Exemplo> 
+	private string _nome; 
+	private double _preco;
+
+2- Propriedades autoimplementadas, Exemplo> 
+	public int Quantidade { get; private set; }
+
+3- Construtores, Exemplo> 
+	public Produtos(string nome, double preco, int quantidade){ }
+
+4- Propriedades Customizadas, Exemplo>  
+	public string Nome
+	{
+    		get { return _nome; }
+    		set
+    		{
+        		if (value != null && value.Length > 1)
+        		{
+            			_nome = value;
+        		}
+    		}
+	}
+
+5- Outros Métodos da classe, Exemplo>
+	public void AdicionarProdutos(int quantia)
+	{
+   		Quantidade += quantia;
+	}

@@ -1,0 +1,14 @@
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio24_Banco\Exercicio24_Banco\bin\Debug\net8.0\Exercicio24_Banco.exe
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio24_Banco\Exercicio24_Banco\bin\Debug\net8.0\Exercicio24_Banco.deps.json
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio24_Banco\Exercicio24_Banco\bin\Debug\net8.0\Exercicio24_Banco.runtimeconfig.json
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio24_Banco\Exercicio24_Banco\bin\Debug\net8.0\Exercicio24_Banco.dll
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio24_Banco\Exercicio24_Banco\bin\Debug\net8.0\Exercicio24_Banco.pdb
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio24_Banco\Exercicio24_Banco\obj\Debug\net8.0\Exercicio24_Banco.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio24_Banco\Exercicio24_Banco\obj\Debug\net8.0\Exercicio24_Banco.AssemblyInfoInputs.cache
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio24_Banco\Exercicio24_Banco\obj\Debug\net8.0\Exercicio24_Banco.AssemblyInfo.cs
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio24_Banco\Exercicio24_Banco\obj\Debug\net8.0\Exercicio24_Banco.csproj.CoreCompileInputs.cache
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio24_Banco\Exercicio24_Banco\obj\Debug\net8.0\Exercicio24_Banco.dll
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio24_Banco\Exercicio24_Banco\obj\Debug\net8.0\refint\Exercicio24_Banco.dll
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio24_Banco\Exercicio24_Banco\obj\Debug\net8.0\Exercicio24_Banco.pdb
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio24_Banco\Exercicio24_Banco\obj\Debug\net8.0\Exercicio24_Banco.genruntimeconfig.cache
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio24_Banco\Exercicio24_Banco\obj\Debug\net8.0\ref\Exercicio24_Banco.dll

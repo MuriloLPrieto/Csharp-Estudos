@@ -1,0 +1,14 @@
+D:\Codigos\Estudo\Csharp\Classes\Classes\bin\Debug\net8.0\Classes.exe
+D:\Codigos\Estudo\Csharp\Classes\Classes\bin\Debug\net8.0\Classes.deps.json
+D:\Codigos\Estudo\Csharp\Classes\Classes\bin\Debug\net8.0\Classes.runtimeconfig.json
+D:\Codigos\Estudo\Csharp\Classes\Classes\bin\Debug\net8.0\Classes.dll
+D:\Codigos\Estudo\Csharp\Classes\Classes\bin\Debug\net8.0\Classes.pdb
+D:\Codigos\Estudo\Csharp\Classes\Classes\obj\Debug\net8.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codigos\Estudo\Csharp\Classes\Classes\obj\Debug\net8.0\Classes.AssemblyInfoInputs.cache
+D:\Codigos\Estudo\Csharp\Classes\Classes\obj\Debug\net8.0\Classes.AssemblyInfo.cs
+D:\Codigos\Estudo\Csharp\Classes\Classes\obj\Debug\net8.0\Classes.csproj.CoreCompileInputs.cache
+D:\Codigos\Estudo\Csharp\Classes\Classes\obj\Debug\net8.0\Classes.dll
+D:\Codigos\Estudo\Csharp\Classes\Classes\obj\Debug\net8.0\refint\Classes.dll
+D:\Codigos\Estudo\Csharp\Classes\Classes\obj\Debug\net8.0\Classes.pdb
+D:\Codigos\Estudo\Csharp\Classes\Classes\obj\Debug\net8.0\Classes.genruntimeconfig.cache
+D:\Codigos\Estudo\Csharp\Classes\Classes\obj\Debug\net8.0\ref\Classes.dll

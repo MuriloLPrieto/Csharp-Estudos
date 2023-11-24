@@ -1,0 +1,14 @@
+D:\Codigos\Estudo\Csharp\ResolvendoProblemasSemOO\ResolvendoProblemasSemOO\bin\Debug\net8.0\ResolvendoProblemasSemOO.exe
+D:\Codigos\Estudo\Csharp\ResolvendoProblemasSemOO\ResolvendoProblemasSemOO\bin\Debug\net8.0\ResolvendoProblemasSemOO.deps.json
+D:\Codigos\Estudo\Csharp\ResolvendoProblemasSemOO\ResolvendoProblemasSemOO\bin\Debug\net8.0\ResolvendoProblemasSemOO.runtimeconfig.json
+D:\Codigos\Estudo\Csharp\ResolvendoProblemasSemOO\ResolvendoProblemasSemOO\bin\Debug\net8.0\ResolvendoProblemasSemOO.dll
+D:\Codigos\Estudo\Csharp\ResolvendoProblemasSemOO\ResolvendoProblemasSemOO\bin\Debug\net8.0\ResolvendoProblemasSemOO.pdb
+D:\Codigos\Estudo\Csharp\ResolvendoProblemasSemOO\ResolvendoProblemasSemOO\obj\Debug\net8.0\ResolvendoProblemasSemOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codigos\Estudo\Csharp\ResolvendoProblemasSemOO\ResolvendoProblemasSemOO\obj\Debug\net8.0\ResolvendoProblemasSemOO.AssemblyInfoInputs.cache
+D:\Codigos\Estudo\Csharp\ResolvendoProblemasSemOO\ResolvendoProblemasSemOO\obj\Debug\net8.0\ResolvendoProblemasSemOO.AssemblyInfo.cs
+D:\Codigos\Estudo\Csharp\ResolvendoProblemasSemOO\ResolvendoProblemasSemOO\obj\Debug\net8.0\ResolvendoProblemasSemOO.csproj.CoreCompileInputs.cache
+D:\Codigos\Estudo\Csharp\ResolvendoProblemasSemOO\ResolvendoProblemasSemOO\obj\Debug\net8.0\ResolvendoProblemasSemOO.dll
+D:\Codigos\Estudo\Csharp\ResolvendoProblemasSemOO\ResolvendoProblemasSemOO\obj\Debug\net8.0\refint\ResolvendoProblemasSemOO.dll
+D:\Codigos\Estudo\Csharp\ResolvendoProblemasSemOO\ResolvendoProblemasSemOO\obj\Debug\net8.0\ResolvendoProblemasSemOO.pdb
+D:\Codigos\Estudo\Csharp\ResolvendoProblemasSemOO\ResolvendoProblemasSemOO\obj\Debug\net8.0\ResolvendoProblemasSemOO.genruntimeconfig.cache
+D:\Codigos\Estudo\Csharp\ResolvendoProblemasSemOO\ResolvendoProblemasSemOO\obj\Debug\net8.0\ref\ResolvendoProblemasSemOO.dll

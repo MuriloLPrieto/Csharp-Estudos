@@ -1,0 +1,14 @@
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio18\Exercicio18\bin\Debug\net8.0\Exercicio18.exe
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio18\Exercicio18\bin\Debug\net8.0\Exercicio18.deps.json
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio18\Exercicio18\bin\Debug\net8.0\Exercicio18.runtimeconfig.json
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio18\Exercicio18\bin\Debug\net8.0\Exercicio18.dll
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio18\Exercicio18\bin\Debug\net8.0\Exercicio18.pdb
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio18\Exercicio18\obj\Debug\net8.0\Exercicio18.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio18\Exercicio18\obj\Debug\net8.0\Exercicio18.AssemblyInfoInputs.cache
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio18\Exercicio18\obj\Debug\net8.0\Exercicio18.AssemblyInfo.cs
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio18\Exercicio18\obj\Debug\net8.0\Exercicio18.csproj.CoreCompileInputs.cache
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio18\Exercicio18\obj\Debug\net8.0\Exercicio18.dll
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio18\Exercicio18\obj\Debug\net8.0\refint\Exercicio18.dll
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio18\Exercicio18\obj\Debug\net8.0\Exercicio18.pdb
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio18\Exercicio18\obj\Debug\net8.0\Exercicio18.genruntimeconfig.cache
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio18\Exercicio18\obj\Debug\net8.0\ref\Exercicio18.dll

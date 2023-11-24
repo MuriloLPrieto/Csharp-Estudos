@@ -1,0 +1,14 @@
+D:\Codigos\Estudo\Csharp\OperadoresAritimeticos\OperadoresAritimeticos\bin\Debug\net6.0\OperadoresAritimeticos.exe
+D:\Codigos\Estudo\Csharp\OperadoresAritimeticos\OperadoresAritimeticos\bin\Debug\net6.0\OperadoresAritimeticos.deps.json
+D:\Codigos\Estudo\Csharp\OperadoresAritimeticos\OperadoresAritimeticos\bin\Debug\net6.0\OperadoresAritimeticos.runtimeconfig.json
+D:\Codigos\Estudo\Csharp\OperadoresAritimeticos\OperadoresAritimeticos\bin\Debug\net6.0\OperadoresAritimeticos.dll
+D:\Codigos\Estudo\Csharp\OperadoresAritimeticos\OperadoresAritimeticos\bin\Debug\net6.0\OperadoresAritimeticos.pdb
+D:\Codigos\Estudo\Csharp\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\net6.0\OperadoresAritimeticos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codigos\Estudo\Csharp\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\net6.0\OperadoresAritimeticos.AssemblyInfoInputs.cache
+D:\Codigos\Estudo\Csharp\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\net6.0\OperadoresAritimeticos.AssemblyInfo.cs
+D:\Codigos\Estudo\Csharp\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\net6.0\OperadoresAritimeticos.csproj.CoreCompileInputs.cache
+D:\Codigos\Estudo\Csharp\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\net6.0\OperadoresAritimeticos.dll
+D:\Codigos\Estudo\Csharp\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\net6.0\refint\OperadoresAritimeticos.dll
+D:\Codigos\Estudo\Csharp\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\net6.0\OperadoresAritimeticos.pdb
+D:\Codigos\Estudo\Csharp\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\net6.0\OperadoresAritimeticos.genruntimeconfig.cache
+D:\Codigos\Estudo\Csharp\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\net6.0\ref\OperadoresAritimeticos.dll

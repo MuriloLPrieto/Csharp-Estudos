@@ -1,0 +1,14 @@
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio22_Classes\Exercicio22_Classes\bin\Debug\net8.0\Exercicio22_Classes.exe
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio22_Classes\Exercicio22_Classes\bin\Debug\net8.0\Exercicio22_Classes.deps.json
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio22_Classes\Exercicio22_Classes\bin\Debug\net8.0\Exercicio22_Classes.runtimeconfig.json
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio22_Classes\Exercicio22_Classes\bin\Debug\net8.0\Exercicio22_Classes.dll
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio22_Classes\Exercicio22_Classes\bin\Debug\net8.0\Exercicio22_Classes.pdb
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio22_Classes\Exercicio22_Classes\obj\Debug\net8.0\Exercicio22_Classes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio22_Classes\Exercicio22_Classes\obj\Debug\net8.0\Exercicio22_Classes.AssemblyInfoInputs.cache
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio22_Classes\Exercicio22_Classes\obj\Debug\net8.0\Exercicio22_Classes.AssemblyInfo.cs
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio22_Classes\Exercicio22_Classes\obj\Debug\net8.0\Exercicio22_Classes.csproj.CoreCompileInputs.cache
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio22_Classes\Exercicio22_Classes\obj\Debug\net8.0\Exercicio22_Classes.dll
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio22_Classes\Exercicio22_Classes\obj\Debug\net8.0\refint\Exercicio22_Classes.dll
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio22_Classes\Exercicio22_Classes\obj\Debug\net8.0\Exercicio22_Classes.pdb
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio22_Classes\Exercicio22_Classes\obj\Debug\net8.0\Exercicio22_Classes.genruntimeconfig.cache
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio22_Classes\Exercicio22_Classes\obj\Debug\net8.0\ref\Exercicio22_Classes.dll

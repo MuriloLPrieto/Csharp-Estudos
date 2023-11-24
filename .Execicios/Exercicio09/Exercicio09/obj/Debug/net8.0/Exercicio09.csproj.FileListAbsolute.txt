@@ -1,0 +1,14 @@
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio09\Exercicio09\bin\Debug\net8.0\Exercicio09.exe
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio09\Exercicio09\bin\Debug\net8.0\Exercicio09.deps.json
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio09\Exercicio09\bin\Debug\net8.0\Exercicio09.runtimeconfig.json
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio09\Exercicio09\bin\Debug\net8.0\Exercicio09.dll
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio09\Exercicio09\bin\Debug\net8.0\Exercicio09.pdb
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio09\Exercicio09\obj\Debug\net8.0\Exercicio09.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio09\Exercicio09\obj\Debug\net8.0\Exercicio09.AssemblyInfoInputs.cache
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio09\Exercicio09\obj\Debug\net8.0\Exercicio09.AssemblyInfo.cs
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio09\Exercicio09\obj\Debug\net8.0\Exercicio09.csproj.CoreCompileInputs.cache
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio09\Exercicio09\obj\Debug\net8.0\Exercicio09.dll
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio09\Exercicio09\obj\Debug\net8.0\refint\Exercicio09.dll
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio09\Exercicio09\obj\Debug\net8.0\Exercicio09.pdb
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio09\Exercicio09\obj\Debug\net8.0\Exercicio09.genruntimeconfig.cache
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio09\Exercicio09\obj\Debug\net8.0\ref\Exercicio09.dll

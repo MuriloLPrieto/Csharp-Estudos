@@ -1,0 +1,14 @@
+D:\Codigos\Estudo\Csharp\PrimeiroCodigo\PrimeiroCodigo\bin\Debug\net6.0\PrimeiroCodigo.exe
+D:\Codigos\Estudo\Csharp\PrimeiroCodigo\PrimeiroCodigo\bin\Debug\net6.0\PrimeiroCodigo.deps.json
+D:\Codigos\Estudo\Csharp\PrimeiroCodigo\PrimeiroCodigo\bin\Debug\net6.0\PrimeiroCodigo.runtimeconfig.json
+D:\Codigos\Estudo\Csharp\PrimeiroCodigo\PrimeiroCodigo\bin\Debug\net6.0\PrimeiroCodigo.dll
+D:\Codigos\Estudo\Csharp\PrimeiroCodigo\PrimeiroCodigo\bin\Debug\net6.0\PrimeiroCodigo.pdb
+D:\Codigos\Estudo\Csharp\PrimeiroCodigo\PrimeiroCodigo\obj\Debug\net6.0\PrimeiroCodigo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codigos\Estudo\Csharp\PrimeiroCodigo\PrimeiroCodigo\obj\Debug\net6.0\PrimeiroCodigo.AssemblyInfoInputs.cache
+D:\Codigos\Estudo\Csharp\PrimeiroCodigo\PrimeiroCodigo\obj\Debug\net6.0\PrimeiroCodigo.AssemblyInfo.cs
+D:\Codigos\Estudo\Csharp\PrimeiroCodigo\PrimeiroCodigo\obj\Debug\net6.0\PrimeiroCodigo.csproj.CoreCompileInputs.cache
+D:\Codigos\Estudo\Csharp\PrimeiroCodigo\PrimeiroCodigo\obj\Debug\net6.0\PrimeiroCodigo.dll
+D:\Codigos\Estudo\Csharp\PrimeiroCodigo\PrimeiroCodigo\obj\Debug\net6.0\refint\PrimeiroCodigo.dll
+D:\Codigos\Estudo\Csharp\PrimeiroCodigo\PrimeiroCodigo\obj\Debug\net6.0\PrimeiroCodigo.pdb
+D:\Codigos\Estudo\Csharp\PrimeiroCodigo\PrimeiroCodigo\obj\Debug\net6.0\PrimeiroCodigo.genruntimeconfig.cache
+D:\Codigos\Estudo\Csharp\PrimeiroCodigo\PrimeiroCodigo\obj\Debug\net6.0\ref\PrimeiroCodigo.dll

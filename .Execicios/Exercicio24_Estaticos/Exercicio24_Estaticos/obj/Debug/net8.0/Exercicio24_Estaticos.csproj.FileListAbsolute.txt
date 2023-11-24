@@ -1,0 +1,14 @@
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio24_Estaticos\Exercicio24_Estaticos\bin\Debug\net8.0\Exercicio24_Estaticos.exe
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio24_Estaticos\Exercicio24_Estaticos\bin\Debug\net8.0\Exercicio24_Estaticos.deps.json
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio24_Estaticos\Exercicio24_Estaticos\bin\Debug\net8.0\Exercicio24_Estaticos.runtimeconfig.json
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio24_Estaticos\Exercicio24_Estaticos\bin\Debug\net8.0\Exercicio24_Estaticos.dll
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio24_Estaticos\Exercicio24_Estaticos\bin\Debug\net8.0\Exercicio24_Estaticos.pdb
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio24_Estaticos\Exercicio24_Estaticos\obj\Debug\net8.0\Exercicio24_Estaticos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio24_Estaticos\Exercicio24_Estaticos\obj\Debug\net8.0\Exercicio24_Estaticos.AssemblyInfoInputs.cache
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio24_Estaticos\Exercicio24_Estaticos\obj\Debug\net8.0\Exercicio24_Estaticos.AssemblyInfo.cs
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio24_Estaticos\Exercicio24_Estaticos\obj\Debug\net8.0\Exercicio24_Estaticos.csproj.CoreCompileInputs.cache
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio24_Estaticos\Exercicio24_Estaticos\obj\Debug\net8.0\Exercicio24_Estaticos.dll
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio24_Estaticos\Exercicio24_Estaticos\obj\Debug\net8.0\refint\Exercicio24_Estaticos.dll
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio24_Estaticos\Exercicio24_Estaticos\obj\Debug\net8.0\Exercicio24_Estaticos.pdb
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio24_Estaticos\Exercicio24_Estaticos\obj\Debug\net8.0\Exercicio24_Estaticos.genruntimeconfig.cache
+D:\Codigos\Estudo\Csharp\.Execicios\Exercicio24_Estaticos\Exercicio24_Estaticos\obj\Debug\net8.0\ref\Exercicio24_Estaticos.dll

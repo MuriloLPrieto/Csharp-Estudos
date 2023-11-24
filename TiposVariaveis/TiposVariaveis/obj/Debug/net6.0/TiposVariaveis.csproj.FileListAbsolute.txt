@@ -1,0 +1,14 @@
+D:\Codigos\Estudo\Csharp\TiposVariaveis\TiposVariaveis\bin\Debug\net6.0\TiposVariaveis.exe
+D:\Codigos\Estudo\Csharp\TiposVariaveis\TiposVariaveis\bin\Debug\net6.0\TiposVariaveis.deps.json
+D:\Codigos\Estudo\Csharp\TiposVariaveis\TiposVariaveis\bin\Debug\net6.0\TiposVariaveis.runtimeconfig.json
+D:\Codigos\Estudo\Csharp\TiposVariaveis\TiposVariaveis\bin\Debug\net6.0\TiposVariaveis.dll
+D:\Codigos\Estudo\Csharp\TiposVariaveis\TiposVariaveis\bin\Debug\net6.0\TiposVariaveis.pdb
+D:\Codigos\Estudo\Csharp\TiposVariaveis\TiposVariaveis\obj\Debug\net6.0\TiposVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codigos\Estudo\Csharp\TiposVariaveis\TiposVariaveis\obj\Debug\net6.0\TiposVariaveis.AssemblyInfoInputs.cache
+D:\Codigos\Estudo\Csharp\TiposVariaveis\TiposVariaveis\obj\Debug\net6.0\TiposVariaveis.AssemblyInfo.cs
+D:\Codigos\Estudo\Csharp\TiposVariaveis\TiposVariaveis\obj\Debug\net6.0\TiposVariaveis.csproj.CoreCompileInputs.cache
+D:\Codigos\Estudo\Csharp\TiposVariaveis\TiposVariaveis\obj\Debug\net6.0\TiposVariaveis.dll
+D:\Codigos\Estudo\Csharp\TiposVariaveis\TiposVariaveis\obj\Debug\net6.0\refint\TiposVariaveis.dll
+D:\Codigos\Estudo\Csharp\TiposVariaveis\TiposVariaveis\obj\Debug\net6.0\TiposVariaveis.pdb
+D:\Codigos\Estudo\Csharp\TiposVariaveis\TiposVariaveis\obj\Debug\net6.0\TiposVariaveis.genruntimeconfig.cache
+D:\Codigos\Estudo\Csharp\TiposVariaveis\TiposVariaveis\obj\Debug\net6.0\ref\TiposVariaveis.dll

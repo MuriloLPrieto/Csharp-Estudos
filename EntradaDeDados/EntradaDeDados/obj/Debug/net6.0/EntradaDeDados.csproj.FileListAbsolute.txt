@@ -1,0 +1,14 @@
+D:\Codigos\Estudo\Csharp\EntradaDeDados\EntradaDeDados\bin\Debug\net6.0\EntradaDeDados.exe
+D:\Codigos\Estudo\Csharp\EntradaDeDados\EntradaDeDados\bin\Debug\net6.0\EntradaDeDados.deps.json
+D:\Codigos\Estudo\Csharp\EntradaDeDados\EntradaDeDados\bin\Debug\net6.0\EntradaDeDados.runtimeconfig.json
+D:\Codigos\Estudo\Csharp\EntradaDeDados\EntradaDeDados\bin\Debug\net6.0\EntradaDeDados.dll
+D:\Codigos\Estudo\Csharp\EntradaDeDados\EntradaDeDados\bin\Debug\net6.0\EntradaDeDados.pdb
+D:\Codigos\Estudo\Csharp\EntradaDeDados\EntradaDeDados\obj\Debug\net6.0\EntradaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codigos\Estudo\Csharp\EntradaDeDados\EntradaDeDados\obj\Debug\net6.0\EntradaDeDados.AssemblyInfoInputs.cache
+D:\Codigos\Estudo\Csharp\EntradaDeDados\EntradaDeDados\obj\Debug\net6.0\EntradaDeDados.AssemblyInfo.cs
+D:\Codigos\Estudo\Csharp\EntradaDeDados\EntradaDeDados\obj\Debug\net6.0\EntradaDeDados.csproj.CoreCompileInputs.cache
+D:\Codigos\Estudo\Csharp\EntradaDeDados\EntradaDeDados\obj\Debug\net6.0\EntradaDeDados.dll
+D:\Codigos\Estudo\Csharp\EntradaDeDados\EntradaDeDados\obj\Debug\net6.0\refint\EntradaDeDados.dll
+D:\Codigos\Estudo\Csharp\EntradaDeDados\EntradaDeDados\obj\Debug\net6.0\EntradaDeDados.pdb
+D:\Codigos\Estudo\Csharp\EntradaDeDados\EntradaDeDados\obj\Debug\net6.0\EntradaDeDados.genruntimeconfig.cache
+D:\Codigos\Estudo\Csharp\EntradaDeDados\EntradaDeDados\obj\Debug\net6.0\ref\EntradaDeDados.dll

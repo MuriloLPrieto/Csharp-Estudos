@@ -1,0 +1,14 @@
+D:\Codigos\Estudo\Csharp\UtilizandoMetodos\UtilizandoMetodos\bin\Debug\net8.0\UtilizandoMetodos.exe
+D:\Codigos\Estudo\Csharp\UtilizandoMetodos\UtilizandoMetodos\bin\Debug\net8.0\UtilizandoMetodos.deps.json
+D:\Codigos\Estudo\Csharp\UtilizandoMetodos\UtilizandoMetodos\bin\Debug\net8.0\UtilizandoMetodos.runtimeconfig.json
+D:\Codigos\Estudo\Csharp\UtilizandoMetodos\UtilizandoMetodos\bin\Debug\net8.0\UtilizandoMetodos.dll
+D:\Codigos\Estudo\Csharp\UtilizandoMetodos\UtilizandoMetodos\bin\Debug\net8.0\UtilizandoMetodos.pdb
+D:\Codigos\Estudo\Csharp\UtilizandoMetodos\UtilizandoMetodos\obj\Debug\net8.0\UtilizandoMetodos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codigos\Estudo\Csharp\UtilizandoMetodos\UtilizandoMetodos\obj\Debug\net8.0\UtilizandoMetodos.AssemblyInfoInputs.cache
+D:\Codigos\Estudo\Csharp\UtilizandoMetodos\UtilizandoMetodos\obj\Debug\net8.0\UtilizandoMetodos.AssemblyInfo.cs
+D:\Codigos\Estudo\Csharp\UtilizandoMetodos\UtilizandoMetodos\obj\Debug\net8.0\UtilizandoMetodos.csproj.CoreCompileInputs.cache
+D:\Codigos\Estudo\Csharp\UtilizandoMetodos\UtilizandoMetodos\obj\Debug\net8.0\UtilizandoMetodos.dll
+D:\Codigos\Estudo\Csharp\UtilizandoMetodos\UtilizandoMetodos\obj\Debug\net8.0\refint\UtilizandoMetodos.dll
+D:\Codigos\Estudo\Csharp\UtilizandoMetodos\UtilizandoMetodos\obj\Debug\net8.0\UtilizandoMetodos.pdb
+D:\Codigos\Estudo\Csharp\UtilizandoMetodos\UtilizandoMetodos\obj\Debug\net8.0\UtilizandoMetodos.genruntimeconfig.cache
+D:\Codigos\Estudo\Csharp\UtilizandoMetodos\UtilizandoMetodos\obj\Debug\net8.0\ref\UtilizandoMetodos.dll

@@ -1,0 +1,14 @@
+D:\Codigos\Estudo\Csharp\CastingEConversoes\CastingEConversoes\bin\Debug\net6.0\CastingEConversoes.exe
+D:\Codigos\Estudo\Csharp\CastingEConversoes\CastingEConversoes\bin\Debug\net6.0\CastingEConversoes.deps.json
+D:\Codigos\Estudo\Csharp\CastingEConversoes\CastingEConversoes\bin\Debug\net6.0\CastingEConversoes.runtimeconfig.json
+D:\Codigos\Estudo\Csharp\CastingEConversoes\CastingEConversoes\bin\Debug\net6.0\CastingEConversoes.dll
+D:\Codigos\Estudo\Csharp\CastingEConversoes\CastingEConversoes\bin\Debug\net6.0\CastingEConversoes.pdb
+D:\Codigos\Estudo\Csharp\CastingEConversoes\CastingEConversoes\obj\Debug\net6.0\CastingEConversoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codigos\Estudo\Csharp\CastingEConversoes\CastingEConversoes\obj\Debug\net6.0\CastingEConversoes.AssemblyInfoInputs.cache
+D:\Codigos\Estudo\Csharp\CastingEConversoes\CastingEConversoes\obj\Debug\net6.0\CastingEConversoes.AssemblyInfo.cs
+D:\Codigos\Estudo\Csharp\CastingEConversoes\CastingEConversoes\obj\Debug\net6.0\CastingEConversoes.csproj.CoreCompileInputs.cache
+D:\Codigos\Estudo\Csharp\CastingEConversoes\CastingEConversoes\obj\Debug\net6.0\CastingEConversoes.dll
+D:\Codigos\Estudo\Csharp\CastingEConversoes\CastingEConversoes\obj\Debug\net6.0\refint\CastingEConversoes.dll
+D:\Codigos\Estudo\Csharp\CastingEConversoes\CastingEConversoes\obj\Debug\net6.0\CastingEConversoes.pdb
+D:\Codigos\Estudo\Csharp\CastingEConversoes\CastingEConversoes\obj\Debug\net6.0\CastingEConversoes.genruntimeconfig.cache
+D:\Codigos\Estudo\Csharp\CastingEConversoes\CastingEConversoes\obj\Debug\net6.0\ref\CastingEConversoes.dll

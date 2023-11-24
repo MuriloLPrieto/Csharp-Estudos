@@ -1,0 +1,14 @@
+D:\Codigos\Estudo\Csharp\ImprimindoDados\ImprimindoDados\bin\Debug\net6.0\ImprimindoDados.exe
+D:\Codigos\Estudo\Csharp\ImprimindoDados\ImprimindoDados\bin\Debug\net6.0\ImprimindoDados.deps.json
+D:\Codigos\Estudo\Csharp\ImprimindoDados\ImprimindoDados\bin\Debug\net6.0\ImprimindoDados.runtimeconfig.json
+D:\Codigos\Estudo\Csharp\ImprimindoDados\ImprimindoDados\bin\Debug\net6.0\ImprimindoDados.dll
+D:\Codigos\Estudo\Csharp\ImprimindoDados\ImprimindoDados\bin\Debug\net6.0\ImprimindoDados.pdb
+D:\Codigos\Estudo\Csharp\ImprimindoDados\ImprimindoDados\obj\Debug\net6.0\ImprimindoDados.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codigos\Estudo\Csharp\ImprimindoDados\ImprimindoDados\obj\Debug\net6.0\ImprimindoDados.AssemblyInfoInputs.cache
+D:\Codigos\Estudo\Csharp\ImprimindoDados\ImprimindoDados\obj\Debug\net6.0\ImprimindoDados.AssemblyInfo.cs
+D:\Codigos\Estudo\Csharp\ImprimindoDados\ImprimindoDados\obj\Debug\net6.0\ImprimindoDados.csproj.CoreCompileInputs.cache
+D:\Codigos\Estudo\Csharp\ImprimindoDados\ImprimindoDados\obj\Debug\net6.0\ImprimindoDados.dll
+D:\Codigos\Estudo\Csharp\ImprimindoDados\ImprimindoDados\obj\Debug\net6.0\refint\ImprimindoDados.dll
+D:\Codigos\Estudo\Csharp\ImprimindoDados\ImprimindoDados\obj\Debug\net6.0\ImprimindoDados.pdb
+D:\Codigos\Estudo\Csharp\ImprimindoDados\ImprimindoDados\obj\Debug\net6.0\ImprimindoDados.genruntimeconfig.cache
+D:\Codigos\Estudo\Csharp\ImprimindoDados\ImprimindoDados\obj\Debug\net6.0\ref\ImprimindoDados.dll
