@@ -1,0 +1,15 @@
+C:\Codigos\Estudo\Csharp-Estudos\OutrosConceitos\OutrosConceitos\bin\Debug\net8.0\OutrosConceitos.exe
+C:\Codigos\Estudo\Csharp-Estudos\OutrosConceitos\OutrosConceitos\bin\Debug\net8.0\OutrosConceitos.deps.json
+C:\Codigos\Estudo\Csharp-Estudos\OutrosConceitos\OutrosConceitos\bin\Debug\net8.0\OutrosConceitos.runtimeconfig.json
+C:\Codigos\Estudo\Csharp-Estudos\OutrosConceitos\OutrosConceitos\bin\Debug\net8.0\OutrosConceitos.dll
+C:\Codigos\Estudo\Csharp-Estudos\OutrosConceitos\OutrosConceitos\bin\Debug\net8.0\OutrosConceitos.pdb
+C:\Codigos\Estudo\Csharp-Estudos\OutrosConceitos\OutrosConceitos\obj\Debug\net8.0\OutrosConceitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codigos\Estudo\Csharp-Estudos\OutrosConceitos\OutrosConceitos\obj\Debug\net8.0\OutrosConceitos.AssemblyInfoInputs.cache
+C:\Codigos\Estudo\Csharp-Estudos\OutrosConceitos\OutrosConceitos\obj\Debug\net8.0\OutrosConceitos.AssemblyInfo.cs
+C:\Codigos\Estudo\Csharp-Estudos\OutrosConceitos\OutrosConceitos\obj\Debug\net8.0\OutrosConceitos.csproj.CoreCompileInputs.cache
+C:\Codigos\Estudo\Csharp-Estudos\OutrosConceitos\OutrosConceitos\obj\Debug\net8.0\OutrosConceitos.sourcelink.json
+C:\Codigos\Estudo\Csharp-Estudos\OutrosConceitos\OutrosConceitos\obj\Debug\net8.0\OutrosConceitos.dll
+C:\Codigos\Estudo\Csharp-Estudos\OutrosConceitos\OutrosConceitos\obj\Debug\net8.0\refint\OutrosConceitos.dll
+C:\Codigos\Estudo\Csharp-Estudos\OutrosConceitos\OutrosConceitos\obj\Debug\net8.0\OutrosConceitos.pdb
+C:\Codigos\Estudo\Csharp-Estudos\OutrosConceitos\OutrosConceitos\obj\Debug\net8.0\OutrosConceitos.genruntimeconfig.cache
+C:\Codigos\Estudo\Csharp-Estudos\OutrosConceitos\OutrosConceitos\obj\Debug\net8.0\ref\OutrosConceitos.dll

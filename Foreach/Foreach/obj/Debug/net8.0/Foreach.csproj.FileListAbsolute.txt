@@ -1,0 +1,15 @@
+C:\Codigos\Estudo\Csharp-Estudos\Foreach\Foreach\bin\Debug\net8.0\Foreach.exe
+C:\Codigos\Estudo\Csharp-Estudos\Foreach\Foreach\bin\Debug\net8.0\Foreach.deps.json
+C:\Codigos\Estudo\Csharp-Estudos\Foreach\Foreach\bin\Debug\net8.0\Foreach.runtimeconfig.json
+C:\Codigos\Estudo\Csharp-Estudos\Foreach\Foreach\bin\Debug\net8.0\Foreach.dll
+C:\Codigos\Estudo\Csharp-Estudos\Foreach\Foreach\bin\Debug\net8.0\Foreach.pdb
+C:\Codigos\Estudo\Csharp-Estudos\Foreach\Foreach\obj\Debug\net8.0\Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codigos\Estudo\Csharp-Estudos\Foreach\Foreach\obj\Debug\net8.0\Foreach.AssemblyInfoInputs.cache
+C:\Codigos\Estudo\Csharp-Estudos\Foreach\Foreach\obj\Debug\net8.0\Foreach.AssemblyInfo.cs
+C:\Codigos\Estudo\Csharp-Estudos\Foreach\Foreach\obj\Debug\net8.0\Foreach.csproj.CoreCompileInputs.cache
+C:\Codigos\Estudo\Csharp-Estudos\Foreach\Foreach\obj\Debug\net8.0\Foreach.sourcelink.json
+C:\Codigos\Estudo\Csharp-Estudos\Foreach\Foreach\obj\Debug\net8.0\Foreach.dll
+C:\Codigos\Estudo\Csharp-Estudos\Foreach\Foreach\obj\Debug\net8.0\refint\Foreach.dll
+C:\Codigos\Estudo\Csharp-Estudos\Foreach\Foreach\obj\Debug\net8.0\Foreach.pdb
+C:\Codigos\Estudo\Csharp-Estudos\Foreach\Foreach\obj\Debug\net8.0\Foreach.genruntimeconfig.cache
+C:\Codigos\Estudo\Csharp-Estudos\Foreach\Foreach\obj\Debug\net8.0\ref\Foreach.dll

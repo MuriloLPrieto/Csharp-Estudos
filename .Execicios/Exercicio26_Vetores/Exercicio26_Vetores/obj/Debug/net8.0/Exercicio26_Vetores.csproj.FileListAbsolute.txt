@@ -1,0 +1,15 @@
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio26_Vetores\Exercicio26_Vetores\bin\Debug\net8.0\Exercicio26_Vetores.exe
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio26_Vetores\Exercicio26_Vetores\bin\Debug\net8.0\Exercicio26_Vetores.deps.json
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio26_Vetores\Exercicio26_Vetores\bin\Debug\net8.0\Exercicio26_Vetores.runtimeconfig.json
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio26_Vetores\Exercicio26_Vetores\bin\Debug\net8.0\Exercicio26_Vetores.dll
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio26_Vetores\Exercicio26_Vetores\bin\Debug\net8.0\Exercicio26_Vetores.pdb
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio26_Vetores\Exercicio26_Vetores\obj\Debug\net8.0\Exercicio26_Vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio26_Vetores\Exercicio26_Vetores\obj\Debug\net8.0\Exercicio26_Vetores.AssemblyInfoInputs.cache
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio26_Vetores\Exercicio26_Vetores\obj\Debug\net8.0\Exercicio26_Vetores.AssemblyInfo.cs
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio26_Vetores\Exercicio26_Vetores\obj\Debug\net8.0\Exercicio26_Vetores.csproj.CoreCompileInputs.cache
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio26_Vetores\Exercicio26_Vetores\obj\Debug\net8.0\Exercicio26_Vetores.sourcelink.json
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio26_Vetores\Exercicio26_Vetores\obj\Debug\net8.0\Exercicio26_Vetores.dll
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio26_Vetores\Exercicio26_Vetores\obj\Debug\net8.0\refint\Exercicio26_Vetores.dll
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio26_Vetores\Exercicio26_Vetores\obj\Debug\net8.0\Exercicio26_Vetores.pdb
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio26_Vetores\Exercicio26_Vetores\obj\Debug\net8.0\Exercicio26_Vetores.genruntimeconfig.cache
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio26_Vetores\Exercicio26_Vetores\obj\Debug\net8.0\ref\Exercicio26_Vetores.dll

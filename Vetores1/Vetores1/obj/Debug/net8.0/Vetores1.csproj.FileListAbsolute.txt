@@ -1,0 +1,15 @@
+C:\Codigos\Estudo\Csharp-Estudos\Vetores1\Vetores1\bin\Debug\net8.0\Vetores1.exe
+C:\Codigos\Estudo\Csharp-Estudos\Vetores1\Vetores1\bin\Debug\net8.0\Vetores1.deps.json
+C:\Codigos\Estudo\Csharp-Estudos\Vetores1\Vetores1\bin\Debug\net8.0\Vetores1.runtimeconfig.json
+C:\Codigos\Estudo\Csharp-Estudos\Vetores1\Vetores1\bin\Debug\net8.0\Vetores1.dll
+C:\Codigos\Estudo\Csharp-Estudos\Vetores1\Vetores1\bin\Debug\net8.0\Vetores1.pdb
+C:\Codigos\Estudo\Csharp-Estudos\Vetores1\Vetores1\obj\Debug\net8.0\Vetores1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codigos\Estudo\Csharp-Estudos\Vetores1\Vetores1\obj\Debug\net8.0\Vetores1.AssemblyInfoInputs.cache
+C:\Codigos\Estudo\Csharp-Estudos\Vetores1\Vetores1\obj\Debug\net8.0\Vetores1.AssemblyInfo.cs
+C:\Codigos\Estudo\Csharp-Estudos\Vetores1\Vetores1\obj\Debug\net8.0\Vetores1.csproj.CoreCompileInputs.cache
+C:\Codigos\Estudo\Csharp-Estudos\Vetores1\Vetores1\obj\Debug\net8.0\Vetores1.sourcelink.json
+C:\Codigos\Estudo\Csharp-Estudos\Vetores1\Vetores1\obj\Debug\net8.0\Vetores1.dll
+C:\Codigos\Estudo\Csharp-Estudos\Vetores1\Vetores1\obj\Debug\net8.0\refint\Vetores1.dll
+C:\Codigos\Estudo\Csharp-Estudos\Vetores1\Vetores1\obj\Debug\net8.0\Vetores1.pdb
+C:\Codigos\Estudo\Csharp-Estudos\Vetores1\Vetores1\obj\Debug\net8.0\Vetores1.genruntimeconfig.cache
+C:\Codigos\Estudo\Csharp-Estudos\Vetores1\Vetores1\obj\Debug\net8.0\ref\Vetores1.dll

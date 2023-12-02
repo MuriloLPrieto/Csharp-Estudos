@@ -1,0 +1,15 @@
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio27_Lista\Exercicio27_Lista\bin\Debug\net8.0\Exercicio27_Lista.exe
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio27_Lista\Exercicio27_Lista\bin\Debug\net8.0\Exercicio27_Lista.deps.json
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio27_Lista\Exercicio27_Lista\bin\Debug\net8.0\Exercicio27_Lista.runtimeconfig.json
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio27_Lista\Exercicio27_Lista\bin\Debug\net8.0\Exercicio27_Lista.dll
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio27_Lista\Exercicio27_Lista\bin\Debug\net8.0\Exercicio27_Lista.pdb
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio27_Lista\Exercicio27_Lista\obj\Debug\net8.0\Exercicio27_Lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio27_Lista\Exercicio27_Lista\obj\Debug\net8.0\Exercicio27_Lista.AssemblyInfoInputs.cache
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio27_Lista\Exercicio27_Lista\obj\Debug\net8.0\Exercicio27_Lista.AssemblyInfo.cs
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio27_Lista\Exercicio27_Lista\obj\Debug\net8.0\Exercicio27_Lista.csproj.CoreCompileInputs.cache
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio27_Lista\Exercicio27_Lista\obj\Debug\net8.0\Exercicio27_Lista.sourcelink.json
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio27_Lista\Exercicio27_Lista\obj\Debug\net8.0\Exercicio27_Lista.dll
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio27_Lista\Exercicio27_Lista\obj\Debug\net8.0\refint\Exercicio27_Lista.dll
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio27_Lista\Exercicio27_Lista\obj\Debug\net8.0\Exercicio27_Lista.pdb
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio27_Lista\Exercicio27_Lista\obj\Debug\net8.0\Exercicio27_Lista.genruntimeconfig.cache
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio27_Lista\Exercicio27_Lista\obj\Debug\net8.0\ref\Exercicio27_Lista.dll

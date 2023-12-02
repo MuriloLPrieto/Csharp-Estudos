@@ -1,0 +1,15 @@
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio28_Matrizes\Exercicio28_Matrizes\bin\Debug\net8.0\Exercicio28_Matrizes.exe
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio28_Matrizes\Exercicio28_Matrizes\bin\Debug\net8.0\Exercicio28_Matrizes.deps.json
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio28_Matrizes\Exercicio28_Matrizes\bin\Debug\net8.0\Exercicio28_Matrizes.runtimeconfig.json
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio28_Matrizes\Exercicio28_Matrizes\bin\Debug\net8.0\Exercicio28_Matrizes.dll
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio28_Matrizes\Exercicio28_Matrizes\bin\Debug\net8.0\Exercicio28_Matrizes.pdb
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio28_Matrizes\Exercicio28_Matrizes\obj\Debug\net8.0\Exercicio28_Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio28_Matrizes\Exercicio28_Matrizes\obj\Debug\net8.0\Exercicio28_Matrizes.AssemblyInfoInputs.cache
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio28_Matrizes\Exercicio28_Matrizes\obj\Debug\net8.0\Exercicio28_Matrizes.AssemblyInfo.cs
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio28_Matrizes\Exercicio28_Matrizes\obj\Debug\net8.0\Exercicio28_Matrizes.csproj.CoreCompileInputs.cache
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio28_Matrizes\Exercicio28_Matrizes\obj\Debug\net8.0\Exercicio28_Matrizes.sourcelink.json
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio28_Matrizes\Exercicio28_Matrizes\obj\Debug\net8.0\Exercicio28_Matrizes.dll
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio28_Matrizes\Exercicio28_Matrizes\obj\Debug\net8.0\refint\Exercicio28_Matrizes.dll
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio28_Matrizes\Exercicio28_Matrizes\obj\Debug\net8.0\Exercicio28_Matrizes.pdb
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio28_Matrizes\Exercicio28_Matrizes\obj\Debug\net8.0\Exercicio28_Matrizes.genruntimeconfig.cache
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio28_Matrizes\Exercicio28_Matrizes\obj\Debug\net8.0\ref\Exercicio28_Matrizes.dll

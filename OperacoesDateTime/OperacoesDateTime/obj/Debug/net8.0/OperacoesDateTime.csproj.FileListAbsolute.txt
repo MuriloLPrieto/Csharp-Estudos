@@ -1,0 +1,15 @@
+C:\Codigos\Estudo\Csharp-Estudos\OperacoesDateTime\OperacoesDateTime\bin\Debug\net8.0\OperacoesDateTime.exe
+C:\Codigos\Estudo\Csharp-Estudos\OperacoesDateTime\OperacoesDateTime\bin\Debug\net8.0\OperacoesDateTime.deps.json
+C:\Codigos\Estudo\Csharp-Estudos\OperacoesDateTime\OperacoesDateTime\bin\Debug\net8.0\OperacoesDateTime.runtimeconfig.json
+C:\Codigos\Estudo\Csharp-Estudos\OperacoesDateTime\OperacoesDateTime\bin\Debug\net8.0\OperacoesDateTime.dll
+C:\Codigos\Estudo\Csharp-Estudos\OperacoesDateTime\OperacoesDateTime\bin\Debug\net8.0\OperacoesDateTime.pdb
+C:\Codigos\Estudo\Csharp-Estudos\OperacoesDateTime\OperacoesDateTime\obj\Debug\net8.0\OperacoesDateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codigos\Estudo\Csharp-Estudos\OperacoesDateTime\OperacoesDateTime\obj\Debug\net8.0\OperacoesDateTime.AssemblyInfoInputs.cache
+C:\Codigos\Estudo\Csharp-Estudos\OperacoesDateTime\OperacoesDateTime\obj\Debug\net8.0\OperacoesDateTime.AssemblyInfo.cs
+C:\Codigos\Estudo\Csharp-Estudos\OperacoesDateTime\OperacoesDateTime\obj\Debug\net8.0\OperacoesDateTime.csproj.CoreCompileInputs.cache
+C:\Codigos\Estudo\Csharp-Estudos\OperacoesDateTime\OperacoesDateTime\obj\Debug\net8.0\OperacoesDateTime.sourcelink.json
+C:\Codigos\Estudo\Csharp-Estudos\OperacoesDateTime\OperacoesDateTime\obj\Debug\net8.0\OperacoesDateTime.dll
+C:\Codigos\Estudo\Csharp-Estudos\OperacoesDateTime\OperacoesDateTime\obj\Debug\net8.0\refint\OperacoesDateTime.dll
+C:\Codigos\Estudo\Csharp-Estudos\OperacoesDateTime\OperacoesDateTime\obj\Debug\net8.0\OperacoesDateTime.pdb
+C:\Codigos\Estudo\Csharp-Estudos\OperacoesDateTime\OperacoesDateTime\obj\Debug\net8.0\OperacoesDateTime.genruntimeconfig.cache
+C:\Codigos\Estudo\Csharp-Estudos\OperacoesDateTime\OperacoesDateTime\obj\Debug\net8.0\ref\OperacoesDateTime.dll

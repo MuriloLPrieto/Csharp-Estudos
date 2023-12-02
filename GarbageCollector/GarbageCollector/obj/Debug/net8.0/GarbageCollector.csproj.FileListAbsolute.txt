@@ -1,0 +1,15 @@
+C:\Codigos\Estudo\Csharp-Estudos\GarbageCollector\GarbageCollector\bin\Debug\net8.0\GarbageCollector.exe
+C:\Codigos\Estudo\Csharp-Estudos\GarbageCollector\GarbageCollector\bin\Debug\net8.0\GarbageCollector.deps.json
+C:\Codigos\Estudo\Csharp-Estudos\GarbageCollector\GarbageCollector\bin\Debug\net8.0\GarbageCollector.runtimeconfig.json
+C:\Codigos\Estudo\Csharp-Estudos\GarbageCollector\GarbageCollector\bin\Debug\net8.0\GarbageCollector.dll
+C:\Codigos\Estudo\Csharp-Estudos\GarbageCollector\GarbageCollector\bin\Debug\net8.0\GarbageCollector.pdb
+C:\Codigos\Estudo\Csharp-Estudos\GarbageCollector\GarbageCollector\obj\Debug\net8.0\GarbageCollector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codigos\Estudo\Csharp-Estudos\GarbageCollector\GarbageCollector\obj\Debug\net8.0\GarbageCollector.AssemblyInfoInputs.cache
+C:\Codigos\Estudo\Csharp-Estudos\GarbageCollector\GarbageCollector\obj\Debug\net8.0\GarbageCollector.AssemblyInfo.cs
+C:\Codigos\Estudo\Csharp-Estudos\GarbageCollector\GarbageCollector\obj\Debug\net8.0\GarbageCollector.csproj.CoreCompileInputs.cache
+C:\Codigos\Estudo\Csharp-Estudos\GarbageCollector\GarbageCollector\obj\Debug\net8.0\GarbageCollector.sourcelink.json
+C:\Codigos\Estudo\Csharp-Estudos\GarbageCollector\GarbageCollector\obj\Debug\net8.0\GarbageCollector.dll
+C:\Codigos\Estudo\Csharp-Estudos\GarbageCollector\GarbageCollector\obj\Debug\net8.0\refint\GarbageCollector.dll
+C:\Codigos\Estudo\Csharp-Estudos\GarbageCollector\GarbageCollector\obj\Debug\net8.0\GarbageCollector.pdb
+C:\Codigos\Estudo\Csharp-Estudos\GarbageCollector\GarbageCollector\obj\Debug\net8.0\GarbageCollector.genruntimeconfig.cache
+C:\Codigos\Estudo\Csharp-Estudos\GarbageCollector\GarbageCollector\obj\Debug\net8.0\ref\GarbageCollector.dll

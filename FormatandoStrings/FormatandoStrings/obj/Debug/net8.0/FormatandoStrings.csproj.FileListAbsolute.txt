@@ -1,0 +1,15 @@
+C:\Codigos\Estudo\Csharp-Estudos\FormatandoStrings\FormatandoStrings\bin\Debug\net8.0\FormatandoStrings.exe
+C:\Codigos\Estudo\Csharp-Estudos\FormatandoStrings\FormatandoStrings\bin\Debug\net8.0\FormatandoStrings.deps.json
+C:\Codigos\Estudo\Csharp-Estudos\FormatandoStrings\FormatandoStrings\bin\Debug\net8.0\FormatandoStrings.runtimeconfig.json
+C:\Codigos\Estudo\Csharp-Estudos\FormatandoStrings\FormatandoStrings\bin\Debug\net8.0\FormatandoStrings.dll
+C:\Codigos\Estudo\Csharp-Estudos\FormatandoStrings\FormatandoStrings\bin\Debug\net8.0\FormatandoStrings.pdb
+C:\Codigos\Estudo\Csharp-Estudos\FormatandoStrings\FormatandoStrings\obj\Debug\net8.0\FormatandoStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codigos\Estudo\Csharp-Estudos\FormatandoStrings\FormatandoStrings\obj\Debug\net8.0\FormatandoStrings.AssemblyInfoInputs.cache
+C:\Codigos\Estudo\Csharp-Estudos\FormatandoStrings\FormatandoStrings\obj\Debug\net8.0\FormatandoStrings.AssemblyInfo.cs
+C:\Codigos\Estudo\Csharp-Estudos\FormatandoStrings\FormatandoStrings\obj\Debug\net8.0\FormatandoStrings.csproj.CoreCompileInputs.cache
+C:\Codigos\Estudo\Csharp-Estudos\FormatandoStrings\FormatandoStrings\obj\Debug\net8.0\FormatandoStrings.sourcelink.json
+C:\Codigos\Estudo\Csharp-Estudos\FormatandoStrings\FormatandoStrings\obj\Debug\net8.0\FormatandoStrings.dll
+C:\Codigos\Estudo\Csharp-Estudos\FormatandoStrings\FormatandoStrings\obj\Debug\net8.0\refint\FormatandoStrings.dll
+C:\Codigos\Estudo\Csharp-Estudos\FormatandoStrings\FormatandoStrings\obj\Debug\net8.0\FormatandoStrings.pdb
+C:\Codigos\Estudo\Csharp-Estudos\FormatandoStrings\FormatandoStrings\obj\Debug\net8.0\FormatandoStrings.genruntimeconfig.cache
+C:\Codigos\Estudo\Csharp-Estudos\FormatandoStrings\FormatandoStrings\obj\Debug\net8.0\ref\FormatandoStrings.dll

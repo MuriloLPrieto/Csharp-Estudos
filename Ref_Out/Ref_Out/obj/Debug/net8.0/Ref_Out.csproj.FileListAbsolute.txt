@@ -1,0 +1,15 @@
+C:\Codigos\Estudo\Csharp-Estudos\Ref_Out\Ref_Out\bin\Debug\net8.0\Ref_Out.exe
+C:\Codigos\Estudo\Csharp-Estudos\Ref_Out\Ref_Out\bin\Debug\net8.0\Ref_Out.deps.json
+C:\Codigos\Estudo\Csharp-Estudos\Ref_Out\Ref_Out\bin\Debug\net8.0\Ref_Out.runtimeconfig.json
+C:\Codigos\Estudo\Csharp-Estudos\Ref_Out\Ref_Out\bin\Debug\net8.0\Ref_Out.dll
+C:\Codigos\Estudo\Csharp-Estudos\Ref_Out\Ref_Out\bin\Debug\net8.0\Ref_Out.pdb
+C:\Codigos\Estudo\Csharp-Estudos\Ref_Out\Ref_Out\obj\Debug\net8.0\Ref_Out.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codigos\Estudo\Csharp-Estudos\Ref_Out\Ref_Out\obj\Debug\net8.0\Ref_Out.AssemblyInfoInputs.cache
+C:\Codigos\Estudo\Csharp-Estudos\Ref_Out\Ref_Out\obj\Debug\net8.0\Ref_Out.AssemblyInfo.cs
+C:\Codigos\Estudo\Csharp-Estudos\Ref_Out\Ref_Out\obj\Debug\net8.0\Ref_Out.csproj.CoreCompileInputs.cache
+C:\Codigos\Estudo\Csharp-Estudos\Ref_Out\Ref_Out\obj\Debug\net8.0\Ref_Out.sourcelink.json
+C:\Codigos\Estudo\Csharp-Estudos\Ref_Out\Ref_Out\obj\Debug\net8.0\Ref_Out.dll
+C:\Codigos\Estudo\Csharp-Estudos\Ref_Out\Ref_Out\obj\Debug\net8.0\refint\Ref_Out.dll
+C:\Codigos\Estudo\Csharp-Estudos\Ref_Out\Ref_Out\obj\Debug\net8.0\Ref_Out.pdb
+C:\Codigos\Estudo\Csharp-Estudos\Ref_Out\Ref_Out\obj\Debug\net8.0\Ref_Out.genruntimeconfig.cache
+C:\Codigos\Estudo\Csharp-Estudos\Ref_Out\Ref_Out\obj\Debug\net8.0\ref\Ref_Out.dll

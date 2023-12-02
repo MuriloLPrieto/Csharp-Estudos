@@ -1,0 +1,15 @@
+C:\Codigos\Estudo\Csharp-Estudos\Vetores2\Vetores2\bin\Debug\net8.0\Vetores2.exe
+C:\Codigos\Estudo\Csharp-Estudos\Vetores2\Vetores2\bin\Debug\net8.0\Vetores2.deps.json
+C:\Codigos\Estudo\Csharp-Estudos\Vetores2\Vetores2\bin\Debug\net8.0\Vetores2.runtimeconfig.json
+C:\Codigos\Estudo\Csharp-Estudos\Vetores2\Vetores2\bin\Debug\net8.0\Vetores2.dll
+C:\Codigos\Estudo\Csharp-Estudos\Vetores2\Vetores2\bin\Debug\net8.0\Vetores2.pdb
+C:\Codigos\Estudo\Csharp-Estudos\Vetores2\Vetores2\obj\Debug\net8.0\Vetores2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codigos\Estudo\Csharp-Estudos\Vetores2\Vetores2\obj\Debug\net8.0\Vetores2.AssemblyInfoInputs.cache
+C:\Codigos\Estudo\Csharp-Estudos\Vetores2\Vetores2\obj\Debug\net8.0\Vetores2.AssemblyInfo.cs
+C:\Codigos\Estudo\Csharp-Estudos\Vetores2\Vetores2\obj\Debug\net8.0\Vetores2.csproj.CoreCompileInputs.cache
+C:\Codigos\Estudo\Csharp-Estudos\Vetores2\Vetores2\obj\Debug\net8.0\Vetores2.sourcelink.json
+C:\Codigos\Estudo\Csharp-Estudos\Vetores2\Vetores2\obj\Debug\net8.0\Vetores2.dll
+C:\Codigos\Estudo\Csharp-Estudos\Vetores2\Vetores2\obj\Debug\net8.0\refint\Vetores2.dll
+C:\Codigos\Estudo\Csharp-Estudos\Vetores2\Vetores2\obj\Debug\net8.0\Vetores2.pdb
+C:\Codigos\Estudo\Csharp-Estudos\Vetores2\Vetores2\obj\Debug\net8.0\Vetores2.genruntimeconfig.cache
+C:\Codigos\Estudo\Csharp-Estudos\Vetores2\Vetores2\obj\Debug\net8.0\ref\Vetores2.dll
