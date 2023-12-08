@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ComposicaoObj/1.0.0": {
+        "runtime": {
+          "ComposicaoObj.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ComposicaoObj/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

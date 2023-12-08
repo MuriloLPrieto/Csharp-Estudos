@@ -1,0 +1,15 @@
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Heranca\Heranca\bin\Debug\net8.0\Heranca.exe
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Heranca\Heranca\bin\Debug\net8.0\Heranca.deps.json
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Heranca\Heranca\bin\Debug\net8.0\Heranca.runtimeconfig.json
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Heranca\Heranca\bin\Debug\net8.0\Heranca.dll
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Heranca\Heranca\bin\Debug\net8.0\Heranca.pdb
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Heranca\Heranca\obj\Debug\net8.0\Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Heranca\Heranca\obj\Debug\net8.0\Heranca.AssemblyInfoInputs.cache
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Heranca\Heranca\obj\Debug\net8.0\Heranca.AssemblyInfo.cs
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Heranca\Heranca\obj\Debug\net8.0\Heranca.csproj.CoreCompileInputs.cache
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Heranca\Heranca\obj\Debug\net8.0\Heranca.sourcelink.json
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Heranca\Heranca\obj\Debug\net8.0\Heranca.dll
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Heranca\Heranca\obj\Debug\net8.0\refint\Heranca.dll
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Heranca\Heranca\obj\Debug\net8.0\Heranca.pdb
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Heranca\Heranca\obj\Debug\net8.0\Heranca.genruntimeconfig.cache
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Heranca\Heranca\obj\Debug\net8.0\ref\Heranca.dll

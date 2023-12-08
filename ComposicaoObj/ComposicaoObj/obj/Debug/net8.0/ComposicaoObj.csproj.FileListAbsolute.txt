@@ -1,0 +1,15 @@
+C:\Codigos\Estudo\Csharp-Estudos\ComposicaoObj\ComposicaoObj\bin\Debug\net8.0\ComposicaoObj.exe
+C:\Codigos\Estudo\Csharp-Estudos\ComposicaoObj\ComposicaoObj\bin\Debug\net8.0\ComposicaoObj.deps.json
+C:\Codigos\Estudo\Csharp-Estudos\ComposicaoObj\ComposicaoObj\bin\Debug\net8.0\ComposicaoObj.runtimeconfig.json
+C:\Codigos\Estudo\Csharp-Estudos\ComposicaoObj\ComposicaoObj\bin\Debug\net8.0\ComposicaoObj.dll
+C:\Codigos\Estudo\Csharp-Estudos\ComposicaoObj\ComposicaoObj\bin\Debug\net8.0\ComposicaoObj.pdb
+C:\Codigos\Estudo\Csharp-Estudos\ComposicaoObj\ComposicaoObj\obj\Debug\net8.0\ComposicaoObj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codigos\Estudo\Csharp-Estudos\ComposicaoObj\ComposicaoObj\obj\Debug\net8.0\ComposicaoObj.AssemblyInfoInputs.cache
+C:\Codigos\Estudo\Csharp-Estudos\ComposicaoObj\ComposicaoObj\obj\Debug\net8.0\ComposicaoObj.AssemblyInfo.cs
+C:\Codigos\Estudo\Csharp-Estudos\ComposicaoObj\ComposicaoObj\obj\Debug\net8.0\ComposicaoObj.csproj.CoreCompileInputs.cache
+C:\Codigos\Estudo\Csharp-Estudos\ComposicaoObj\ComposicaoObj\obj\Debug\net8.0\ComposicaoObj.sourcelink.json
+C:\Codigos\Estudo\Csharp-Estudos\ComposicaoObj\ComposicaoObj\obj\Debug\net8.0\ComposicaoObj.dll
+C:\Codigos\Estudo\Csharp-Estudos\ComposicaoObj\ComposicaoObj\obj\Debug\net8.0\refint\ComposicaoObj.dll
+C:\Codigos\Estudo\Csharp-Estudos\ComposicaoObj\ComposicaoObj\obj\Debug\net8.0\ComposicaoObj.pdb
+C:\Codigos\Estudo\Csharp-Estudos\ComposicaoObj\ComposicaoObj\obj\Debug\net8.0\ComposicaoObj.genruntimeconfig.cache
+C:\Codigos\Estudo\Csharp-Estudos\ComposicaoObj\ComposicaoObj\obj\Debug\net8.0\ref\ComposicaoObj.dll

@@ -1,0 +1,15 @@
+C:\Codigos\Estudo\Csharp-Estudos\Enumeracao\Enumeracao\bin\Debug\net8.0\Enumeracao.exe
+C:\Codigos\Estudo\Csharp-Estudos\Enumeracao\Enumeracao\bin\Debug\net8.0\Enumeracao.deps.json
+C:\Codigos\Estudo\Csharp-Estudos\Enumeracao\Enumeracao\bin\Debug\net8.0\Enumeracao.runtimeconfig.json
+C:\Codigos\Estudo\Csharp-Estudos\Enumeracao\Enumeracao\bin\Debug\net8.0\Enumeracao.dll
+C:\Codigos\Estudo\Csharp-Estudos\Enumeracao\Enumeracao\bin\Debug\net8.0\Enumeracao.pdb
+C:\Codigos\Estudo\Csharp-Estudos\Enumeracao\Enumeracao\obj\Debug\net8.0\Enumeracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codigos\Estudo\Csharp-Estudos\Enumeracao\Enumeracao\obj\Debug\net8.0\Enumeracao.AssemblyInfoInputs.cache
+C:\Codigos\Estudo\Csharp-Estudos\Enumeracao\Enumeracao\obj\Debug\net8.0\Enumeracao.AssemblyInfo.cs
+C:\Codigos\Estudo\Csharp-Estudos\Enumeracao\Enumeracao\obj\Debug\net8.0\Enumeracao.csproj.CoreCompileInputs.cache
+C:\Codigos\Estudo\Csharp-Estudos\Enumeracao\Enumeracao\obj\Debug\net8.0\Enumeracao.sourcelink.json
+C:\Codigos\Estudo\Csharp-Estudos\Enumeracao\Enumeracao\obj\Debug\net8.0\Enumeracao.dll
+C:\Codigos\Estudo\Csharp-Estudos\Enumeracao\Enumeracao\obj\Debug\net8.0\refint\Enumeracao.dll
+C:\Codigos\Estudo\Csharp-Estudos\Enumeracao\Enumeracao\obj\Debug\net8.0\Enumeracao.pdb
+C:\Codigos\Estudo\Csharp-Estudos\Enumeracao\Enumeracao\obj\Debug\net8.0\Enumeracao.genruntimeconfig.cache
+C:\Codigos\Estudo\Csharp-Estudos\Enumeracao\Enumeracao\obj\Debug\net8.0\ref\Enumeracao.dll

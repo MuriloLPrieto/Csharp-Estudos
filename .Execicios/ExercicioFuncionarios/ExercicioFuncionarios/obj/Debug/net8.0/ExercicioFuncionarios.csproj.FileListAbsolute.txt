@@ -1,0 +1,15 @@
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\ExercicioFuncionarios\ExercicioFuncionarios\bin\Debug\net8.0\ExercicioFuncionarios.exe
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\ExercicioFuncionarios\ExercicioFuncionarios\bin\Debug\net8.0\ExercicioFuncionarios.deps.json
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\ExercicioFuncionarios\ExercicioFuncionarios\bin\Debug\net8.0\ExercicioFuncionarios.runtimeconfig.json
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\ExercicioFuncionarios\ExercicioFuncionarios\bin\Debug\net8.0\ExercicioFuncionarios.dll
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\ExercicioFuncionarios\ExercicioFuncionarios\bin\Debug\net8.0\ExercicioFuncionarios.pdb
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\ExercicioFuncionarios\ExercicioFuncionarios\obj\Debug\net8.0\ExercicioFuncionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\ExercicioFuncionarios\ExercicioFuncionarios\obj\Debug\net8.0\ExercicioFuncionarios.AssemblyInfoInputs.cache
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\ExercicioFuncionarios\ExercicioFuncionarios\obj\Debug\net8.0\ExercicioFuncionarios.AssemblyInfo.cs
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\ExercicioFuncionarios\ExercicioFuncionarios\obj\Debug\net8.0\ExercicioFuncionarios.csproj.CoreCompileInputs.cache
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\ExercicioFuncionarios\ExercicioFuncionarios\obj\Debug\net8.0\ExercicioFuncionarios.sourcelink.json
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\ExercicioFuncionarios\ExercicioFuncionarios\obj\Debug\net8.0\ExercicioFuncionarios.dll
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\ExercicioFuncionarios\ExercicioFuncionarios\obj\Debug\net8.0\refint\ExercicioFuncionarios.dll
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\ExercicioFuncionarios\ExercicioFuncionarios\obj\Debug\net8.0\ExercicioFuncionarios.pdb
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\ExercicioFuncionarios\ExercicioFuncionarios\obj\Debug\net8.0\ExercicioFuncionarios.genruntimeconfig.cache
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\ExercicioFuncionarios\ExercicioFuncionarios\obj\Debug\net8.0\ref\ExercicioFuncionarios.dll

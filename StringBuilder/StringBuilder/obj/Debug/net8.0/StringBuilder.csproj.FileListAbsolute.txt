@@ -1,0 +1,15 @@
+C:\Codigos\Estudo\Csharp-Estudos\StringBuilder\StringBuilder\bin\Debug\net8.0\StringBuilder.exe
+C:\Codigos\Estudo\Csharp-Estudos\StringBuilder\StringBuilder\bin\Debug\net8.0\StringBuilder.deps.json
+C:\Codigos\Estudo\Csharp-Estudos\StringBuilder\StringBuilder\bin\Debug\net8.0\StringBuilder.runtimeconfig.json
+C:\Codigos\Estudo\Csharp-Estudos\StringBuilder\StringBuilder\bin\Debug\net8.0\StringBuilder.dll
+C:\Codigos\Estudo\Csharp-Estudos\StringBuilder\StringBuilder\bin\Debug\net8.0\StringBuilder.pdb
+C:\Codigos\Estudo\Csharp-Estudos\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codigos\Estudo\Csharp-Estudos\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBuilder.AssemblyInfoInputs.cache
+C:\Codigos\Estudo\Csharp-Estudos\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBuilder.AssemblyInfo.cs
+C:\Codigos\Estudo\Csharp-Estudos\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBuilder.csproj.CoreCompileInputs.cache
+C:\Codigos\Estudo\Csharp-Estudos\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBuilder.sourcelink.json
+C:\Codigos\Estudo\Csharp-Estudos\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBuilder.dll
+C:\Codigos\Estudo\Csharp-Estudos\StringBuilder\StringBuilder\obj\Debug\net8.0\refint\StringBuilder.dll
+C:\Codigos\Estudo\Csharp-Estudos\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBuilder.pdb
+C:\Codigos\Estudo\Csharp-Estudos\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBuilder.genruntimeconfig.cache
+C:\Codigos\Estudo\Csharp-Estudos\StringBuilder\StringBuilder\obj\Debug\net8.0\ref\StringBuilder.dll

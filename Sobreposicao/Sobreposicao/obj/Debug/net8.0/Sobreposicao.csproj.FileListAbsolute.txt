@@ -1,0 +1,15 @@
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Sobreposicao\Sobreposicao\bin\Debug\net8.0\Sobreposicao.exe
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Sobreposicao\Sobreposicao\bin\Debug\net8.0\Sobreposicao.deps.json
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Sobreposicao\Sobreposicao\bin\Debug\net8.0\Sobreposicao.runtimeconfig.json
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Sobreposicao\Sobreposicao\bin\Debug\net8.0\Sobreposicao.dll
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Sobreposicao\Sobreposicao\bin\Debug\net8.0\Sobreposicao.pdb
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Sobreposicao\Sobreposicao\obj\Debug\net8.0\Sobreposicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Sobreposicao\Sobreposicao\obj\Debug\net8.0\Sobreposicao.AssemblyInfoInputs.cache
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Sobreposicao\Sobreposicao\obj\Debug\net8.0\Sobreposicao.AssemblyInfo.cs
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Sobreposicao\Sobreposicao\obj\Debug\net8.0\Sobreposicao.csproj.CoreCompileInputs.cache
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Sobreposicao\Sobreposicao\obj\Debug\net8.0\Sobreposicao.sourcelink.json
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Sobreposicao\Sobreposicao\obj\Debug\net8.0\Sobreposicao.dll
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Sobreposicao\Sobreposicao\obj\Debug\net8.0\refint\Sobreposicao.dll
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Sobreposicao\Sobreposicao\obj\Debug\net8.0\Sobreposicao.pdb
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Sobreposicao\Sobreposicao\obj\Debug\net8.0\Sobreposicao.genruntimeconfig.cache
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Sobreposicao\Sobreposicao\obj\Debug\net8.0\ref\Sobreposicao.dll
