@@ -1,0 +1,15 @@
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio32_File\Exercicio32_File\bin\Debug\net8.0\Exercicio32_File.exe
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio32_File\Exercicio32_File\bin\Debug\net8.0\Exercicio32_File.deps.json
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio32_File\Exercicio32_File\bin\Debug\net8.0\Exercicio32_File.runtimeconfig.json
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio32_File\Exercicio32_File\bin\Debug\net8.0\Exercicio32_File.dll
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio32_File\Exercicio32_File\bin\Debug\net8.0\Exercicio32_File.pdb
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio32_File\Exercicio32_File\obj\Debug\net8.0\Exercicio32_File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio32_File\Exercicio32_File\obj\Debug\net8.0\Exercicio32_File.AssemblyInfoInputs.cache
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio32_File\Exercicio32_File\obj\Debug\net8.0\Exercicio32_File.AssemblyInfo.cs
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio32_File\Exercicio32_File\obj\Debug\net8.0\Exercicio32_File.csproj.CoreCompileInputs.cache
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio32_File\Exercicio32_File\obj\Debug\net8.0\Exercicio32_File.sourcelink.json
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio32_File\Exercicio32_File\obj\Debug\net8.0\Exercicio32_File.dll
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio32_File\Exercicio32_File\obj\Debug\net8.0\refint\Exercicio32_File.dll
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio32_File\Exercicio32_File\obj\Debug\net8.0\Exercicio32_File.pdb
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio32_File\Exercicio32_File\obj\Debug\net8.0\Exercicio32_File.genruntimeconfig.cache
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio32_File\Exercicio32_File\obj\Debug\net8.0\ref\Exercicio32_File.dll

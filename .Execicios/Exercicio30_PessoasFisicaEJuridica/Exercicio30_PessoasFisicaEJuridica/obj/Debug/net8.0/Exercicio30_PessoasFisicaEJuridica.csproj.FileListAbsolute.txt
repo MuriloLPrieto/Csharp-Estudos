@@ -1,0 +1,15 @@
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio30_PessoasFisicaEJuridica\Exercicio30_PessoasFisicaEJuridica\bin\Debug\net8.0\Exercicio30_PessoasFisicaEJuridica.exe
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio30_PessoasFisicaEJuridica\Exercicio30_PessoasFisicaEJuridica\bin\Debug\net8.0\Exercicio30_PessoasFisicaEJuridica.deps.json
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio30_PessoasFisicaEJuridica\Exercicio30_PessoasFisicaEJuridica\bin\Debug\net8.0\Exercicio30_PessoasFisicaEJuridica.runtimeconfig.json
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio30_PessoasFisicaEJuridica\Exercicio30_PessoasFisicaEJuridica\bin\Debug\net8.0\Exercicio30_PessoasFisicaEJuridica.dll
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio30_PessoasFisicaEJuridica\Exercicio30_PessoasFisicaEJuridica\bin\Debug\net8.0\Exercicio30_PessoasFisicaEJuridica.pdb
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio30_PessoasFisicaEJuridica\Exercicio30_PessoasFisicaEJuridica\obj\Debug\net8.0\Exercicio30_PessoasFisicaEJuridica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio30_PessoasFisicaEJuridica\Exercicio30_PessoasFisicaEJuridica\obj\Debug\net8.0\Exercicio30_PessoasFisicaEJuridica.AssemblyInfoInputs.cache
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio30_PessoasFisicaEJuridica\Exercicio30_PessoasFisicaEJuridica\obj\Debug\net8.0\Exercicio30_PessoasFisicaEJuridica.AssemblyInfo.cs
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio30_PessoasFisicaEJuridica\Exercicio30_PessoasFisicaEJuridica\obj\Debug\net8.0\Exercicio30_PessoasFisicaEJuridica.csproj.CoreCompileInputs.cache
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio30_PessoasFisicaEJuridica\Exercicio30_PessoasFisicaEJuridica\obj\Debug\net8.0\Exercicio30_PessoasFisicaEJuridica.sourcelink.json
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio30_PessoasFisicaEJuridica\Exercicio30_PessoasFisicaEJuridica\obj\Debug\net8.0\Exercicio30_PessoasFisicaEJuridica.dll
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio30_PessoasFisicaEJuridica\Exercicio30_PessoasFisicaEJuridica\obj\Debug\net8.0\refint\Exercicio30_PessoasFisicaEJuridica.dll
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio30_PessoasFisicaEJuridica\Exercicio30_PessoasFisicaEJuridica\obj\Debug\net8.0\Exercicio30_PessoasFisicaEJuridica.pdb
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio30_PessoasFisicaEJuridica\Exercicio30_PessoasFisicaEJuridica\obj\Debug\net8.0\Exercicio30_PessoasFisicaEJuridica.genruntimeconfig.cache
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio30_PessoasFisicaEJuridica\Exercicio30_PessoasFisicaEJuridica\obj\Debug\net8.0\ref\Exercicio30_PessoasFisicaEJuridica.dll

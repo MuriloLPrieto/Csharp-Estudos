@@ -1,0 +1,15 @@
+C:\Codigos\Estudo\Csharp-Estudos\Utilizando_StreamWriter\Utilizando_StreamWriter\bin\Debug\net8.0\Utilizando_StreamWriter.exe
+C:\Codigos\Estudo\Csharp-Estudos\Utilizando_StreamWriter\Utilizando_StreamWriter\bin\Debug\net8.0\Utilizando_StreamWriter.deps.json
+C:\Codigos\Estudo\Csharp-Estudos\Utilizando_StreamWriter\Utilizando_StreamWriter\bin\Debug\net8.0\Utilizando_StreamWriter.runtimeconfig.json
+C:\Codigos\Estudo\Csharp-Estudos\Utilizando_StreamWriter\Utilizando_StreamWriter\bin\Debug\net8.0\Utilizando_StreamWriter.dll
+C:\Codigos\Estudo\Csharp-Estudos\Utilizando_StreamWriter\Utilizando_StreamWriter\bin\Debug\net8.0\Utilizando_StreamWriter.pdb
+C:\Codigos\Estudo\Csharp-Estudos\Utilizando_StreamWriter\Utilizando_StreamWriter\obj\Debug\net8.0\Utilizando_StreamWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codigos\Estudo\Csharp-Estudos\Utilizando_StreamWriter\Utilizando_StreamWriter\obj\Debug\net8.0\Utilizando_StreamWriter.AssemblyInfoInputs.cache
+C:\Codigos\Estudo\Csharp-Estudos\Utilizando_StreamWriter\Utilizando_StreamWriter\obj\Debug\net8.0\Utilizando_StreamWriter.AssemblyInfo.cs
+C:\Codigos\Estudo\Csharp-Estudos\Utilizando_StreamWriter\Utilizando_StreamWriter\obj\Debug\net8.0\Utilizando_StreamWriter.csproj.CoreCompileInputs.cache
+C:\Codigos\Estudo\Csharp-Estudos\Utilizando_StreamWriter\Utilizando_StreamWriter\obj\Debug\net8.0\Utilizando_StreamWriter.sourcelink.json
+C:\Codigos\Estudo\Csharp-Estudos\Utilizando_StreamWriter\Utilizando_StreamWriter\obj\Debug\net8.0\Utilizando_StreamWriter.dll
+C:\Codigos\Estudo\Csharp-Estudos\Utilizando_StreamWriter\Utilizando_StreamWriter\obj\Debug\net8.0\refint\Utilizando_StreamWriter.dll
+C:\Codigos\Estudo\Csharp-Estudos\Utilizando_StreamWriter\Utilizando_StreamWriter\obj\Debug\net8.0\Utilizando_StreamWriter.pdb
+C:\Codigos\Estudo\Csharp-Estudos\Utilizando_StreamWriter\Utilizando_StreamWriter\obj\Debug\net8.0\Utilizando_StreamWriter.genruntimeconfig.cache
+C:\Codigos\Estudo\Csharp-Estudos\Utilizando_StreamWriter\Utilizando_StreamWriter\obj\Debug\net8.0\ref\Utilizando_StreamWriter.dll

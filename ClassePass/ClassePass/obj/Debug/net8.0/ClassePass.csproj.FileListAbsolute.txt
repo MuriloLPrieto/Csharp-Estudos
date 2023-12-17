@@ -1,0 +1,15 @@
+C:\Codigos\Estudo\Csharp-Estudos\ClassePass\ClassePass\bin\Debug\net8.0\ClassePass.exe
+C:\Codigos\Estudo\Csharp-Estudos\ClassePass\ClassePass\bin\Debug\net8.0\ClassePass.deps.json
+C:\Codigos\Estudo\Csharp-Estudos\ClassePass\ClassePass\bin\Debug\net8.0\ClassePass.runtimeconfig.json
+C:\Codigos\Estudo\Csharp-Estudos\ClassePass\ClassePass\bin\Debug\net8.0\ClassePass.dll
+C:\Codigos\Estudo\Csharp-Estudos\ClassePass\ClassePass\bin\Debug\net8.0\ClassePass.pdb
+C:\Codigos\Estudo\Csharp-Estudos\ClassePass\ClassePass\obj\Debug\net8.0\ClassePass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codigos\Estudo\Csharp-Estudos\ClassePass\ClassePass\obj\Debug\net8.0\ClassePass.AssemblyInfoInputs.cache
+C:\Codigos\Estudo\Csharp-Estudos\ClassePass\ClassePass\obj\Debug\net8.0\ClassePass.AssemblyInfo.cs
+C:\Codigos\Estudo\Csharp-Estudos\ClassePass\ClassePass\obj\Debug\net8.0\ClassePass.csproj.CoreCompileInputs.cache
+C:\Codigos\Estudo\Csharp-Estudos\ClassePass\ClassePass\obj\Debug\net8.0\ClassePass.sourcelink.json
+C:\Codigos\Estudo\Csharp-Estudos\ClassePass\ClassePass\obj\Debug\net8.0\ClassePass.dll
+C:\Codigos\Estudo\Csharp-Estudos\ClassePass\ClassePass\obj\Debug\net8.0\refint\ClassePass.dll
+C:\Codigos\Estudo\Csharp-Estudos\ClassePass\ClassePass\obj\Debug\net8.0\ClassePass.pdb
+C:\Codigos\Estudo\Csharp-Estudos\ClassePass\ClassePass\obj\Debug\net8.0\ClassePass.genruntimeconfig.cache
+C:\Codigos\Estudo\Csharp-Estudos\ClassePass\ClassePass\obj\Debug\net8.0\ref\ClassePass.dll

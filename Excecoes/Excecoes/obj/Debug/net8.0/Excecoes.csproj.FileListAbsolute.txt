@@ -1,0 +1,15 @@
+C:\Codigos\Estudo\Csharp-Estudos\Excecoes\Excecoes\bin\Debug\net8.0\Excecoes.exe
+C:\Codigos\Estudo\Csharp-Estudos\Excecoes\Excecoes\bin\Debug\net8.0\Excecoes.deps.json
+C:\Codigos\Estudo\Csharp-Estudos\Excecoes\Excecoes\bin\Debug\net8.0\Excecoes.runtimeconfig.json
+C:\Codigos\Estudo\Csharp-Estudos\Excecoes\Excecoes\bin\Debug\net8.0\Excecoes.dll
+C:\Codigos\Estudo\Csharp-Estudos\Excecoes\Excecoes\bin\Debug\net8.0\Excecoes.pdb
+C:\Codigos\Estudo\Csharp-Estudos\Excecoes\Excecoes\obj\Debug\net8.0\Excecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codigos\Estudo\Csharp-Estudos\Excecoes\Excecoes\obj\Debug\net8.0\Excecoes.AssemblyInfoInputs.cache
+C:\Codigos\Estudo\Csharp-Estudos\Excecoes\Excecoes\obj\Debug\net8.0\Excecoes.AssemblyInfo.cs
+C:\Codigos\Estudo\Csharp-Estudos\Excecoes\Excecoes\obj\Debug\net8.0\Excecoes.csproj.CoreCompileInputs.cache
+C:\Codigos\Estudo\Csharp-Estudos\Excecoes\Excecoes\obj\Debug\net8.0\Excecoes.sourcelink.json
+C:\Codigos\Estudo\Csharp-Estudos\Excecoes\Excecoes\obj\Debug\net8.0\Excecoes.dll
+C:\Codigos\Estudo\Csharp-Estudos\Excecoes\Excecoes\obj\Debug\net8.0\refint\Excecoes.dll
+C:\Codigos\Estudo\Csharp-Estudos\Excecoes\Excecoes\obj\Debug\net8.0\Excecoes.pdb
+C:\Codigos\Estudo\Csharp-Estudos\Excecoes\Excecoes\obj\Debug\net8.0\Excecoes.genruntimeconfig.cache
+C:\Codigos\Estudo\Csharp-Estudos\Excecoes\Excecoes\obj\Debug\net8.0\ref\Excecoes.dll

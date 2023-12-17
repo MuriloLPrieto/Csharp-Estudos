@@ -1,0 +1,15 @@
+C:\Codigos\Estudo\Csharp-Estudos\TrabalhandoComArquivos\TrabalhandoComArquivos\bin\Debug\net8.0\TrabalhandoComArquivos.exe
+C:\Codigos\Estudo\Csharp-Estudos\TrabalhandoComArquivos\TrabalhandoComArquivos\bin\Debug\net8.0\TrabalhandoComArquivos.deps.json
+C:\Codigos\Estudo\Csharp-Estudos\TrabalhandoComArquivos\TrabalhandoComArquivos\bin\Debug\net8.0\TrabalhandoComArquivos.runtimeconfig.json
+C:\Codigos\Estudo\Csharp-Estudos\TrabalhandoComArquivos\TrabalhandoComArquivos\bin\Debug\net8.0\TrabalhandoComArquivos.dll
+C:\Codigos\Estudo\Csharp-Estudos\TrabalhandoComArquivos\TrabalhandoComArquivos\bin\Debug\net8.0\TrabalhandoComArquivos.pdb
+C:\Codigos\Estudo\Csharp-Estudos\TrabalhandoComArquivos\TrabalhandoComArquivos\obj\Debug\net8.0\TrabalhandoComArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codigos\Estudo\Csharp-Estudos\TrabalhandoComArquivos\TrabalhandoComArquivos\obj\Debug\net8.0\TrabalhandoComArquivos.AssemblyInfoInputs.cache
+C:\Codigos\Estudo\Csharp-Estudos\TrabalhandoComArquivos\TrabalhandoComArquivos\obj\Debug\net8.0\TrabalhandoComArquivos.AssemblyInfo.cs
+C:\Codigos\Estudo\Csharp-Estudos\TrabalhandoComArquivos\TrabalhandoComArquivos\obj\Debug\net8.0\TrabalhandoComArquivos.csproj.CoreCompileInputs.cache
+C:\Codigos\Estudo\Csharp-Estudos\TrabalhandoComArquivos\TrabalhandoComArquivos\obj\Debug\net8.0\TrabalhandoComArquivos.sourcelink.json
+C:\Codigos\Estudo\Csharp-Estudos\TrabalhandoComArquivos\TrabalhandoComArquivos\obj\Debug\net8.0\TrabalhandoComArquivos.dll
+C:\Codigos\Estudo\Csharp-Estudos\TrabalhandoComArquivos\TrabalhandoComArquivos\obj\Debug\net8.0\refint\TrabalhandoComArquivos.dll
+C:\Codigos\Estudo\Csharp-Estudos\TrabalhandoComArquivos\TrabalhandoComArquivos\obj\Debug\net8.0\TrabalhandoComArquivos.pdb
+C:\Codigos\Estudo\Csharp-Estudos\TrabalhandoComArquivos\TrabalhandoComArquivos\obj\Debug\net8.0\TrabalhandoComArquivos.genruntimeconfig.cache
+C:\Codigos\Estudo\Csharp-Estudos\TrabalhandoComArquivos\TrabalhandoComArquivos\obj\Debug\net8.0\ref\TrabalhandoComArquivos.dll

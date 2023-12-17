@@ -1,0 +1,15 @@
+C:\Codigos\Estudo\Csharp-Estudos\Sobre_UsingBlock\Sobre_UsingBlock\bin\Debug\net8.0\Sobre_UsingBlock.exe
+C:\Codigos\Estudo\Csharp-Estudos\Sobre_UsingBlock\Sobre_UsingBlock\bin\Debug\net8.0\Sobre_UsingBlock.deps.json
+C:\Codigos\Estudo\Csharp-Estudos\Sobre_UsingBlock\Sobre_UsingBlock\bin\Debug\net8.0\Sobre_UsingBlock.runtimeconfig.json
+C:\Codigos\Estudo\Csharp-Estudos\Sobre_UsingBlock\Sobre_UsingBlock\bin\Debug\net8.0\Sobre_UsingBlock.dll
+C:\Codigos\Estudo\Csharp-Estudos\Sobre_UsingBlock\Sobre_UsingBlock\bin\Debug\net8.0\Sobre_UsingBlock.pdb
+C:\Codigos\Estudo\Csharp-Estudos\Sobre_UsingBlock\Sobre_UsingBlock\obj\Debug\net8.0\Sobre_UsingBlock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codigos\Estudo\Csharp-Estudos\Sobre_UsingBlock\Sobre_UsingBlock\obj\Debug\net8.0\Sobre_UsingBlock.AssemblyInfoInputs.cache
+C:\Codigos\Estudo\Csharp-Estudos\Sobre_UsingBlock\Sobre_UsingBlock\obj\Debug\net8.0\Sobre_UsingBlock.AssemblyInfo.cs
+C:\Codigos\Estudo\Csharp-Estudos\Sobre_UsingBlock\Sobre_UsingBlock\obj\Debug\net8.0\Sobre_UsingBlock.csproj.CoreCompileInputs.cache
+C:\Codigos\Estudo\Csharp-Estudos\Sobre_UsingBlock\Sobre_UsingBlock\obj\Debug\net8.0\Sobre_UsingBlock.sourcelink.json
+C:\Codigos\Estudo\Csharp-Estudos\Sobre_UsingBlock\Sobre_UsingBlock\obj\Debug\net8.0\Sobre_UsingBlock.dll
+C:\Codigos\Estudo\Csharp-Estudos\Sobre_UsingBlock\Sobre_UsingBlock\obj\Debug\net8.0\refint\Sobre_UsingBlock.dll
+C:\Codigos\Estudo\Csharp-Estudos\Sobre_UsingBlock\Sobre_UsingBlock\obj\Debug\net8.0\Sobre_UsingBlock.pdb
+C:\Codigos\Estudo\Csharp-Estudos\Sobre_UsingBlock\Sobre_UsingBlock\obj\Debug\net8.0\Sobre_UsingBlock.genruntimeconfig.cache
+C:\Codigos\Estudo\Csharp-Estudos\Sobre_UsingBlock\Sobre_UsingBlock\obj\Debug\net8.0\ref\Sobre_UsingBlock.dll

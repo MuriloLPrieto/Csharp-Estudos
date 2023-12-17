@@ -1,0 +1,15 @@
+C:\Codigos\Estudo\Csharp-Estudos\DirectoryEDirectoryInfo\DirectoryEDirectoryInfo\bin\Debug\net8.0\DirectoryEDirectoryInfo.exe
+C:\Codigos\Estudo\Csharp-Estudos\DirectoryEDirectoryInfo\DirectoryEDirectoryInfo\bin\Debug\net8.0\DirectoryEDirectoryInfo.deps.json
+C:\Codigos\Estudo\Csharp-Estudos\DirectoryEDirectoryInfo\DirectoryEDirectoryInfo\bin\Debug\net8.0\DirectoryEDirectoryInfo.runtimeconfig.json
+C:\Codigos\Estudo\Csharp-Estudos\DirectoryEDirectoryInfo\DirectoryEDirectoryInfo\bin\Debug\net8.0\DirectoryEDirectoryInfo.dll
+C:\Codigos\Estudo\Csharp-Estudos\DirectoryEDirectoryInfo\DirectoryEDirectoryInfo\bin\Debug\net8.0\DirectoryEDirectoryInfo.pdb
+C:\Codigos\Estudo\Csharp-Estudos\DirectoryEDirectoryInfo\DirectoryEDirectoryInfo\obj\Debug\net8.0\DirectoryEDirectoryInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codigos\Estudo\Csharp-Estudos\DirectoryEDirectoryInfo\DirectoryEDirectoryInfo\obj\Debug\net8.0\DirectoryEDirectoryInfo.AssemblyInfoInputs.cache
+C:\Codigos\Estudo\Csharp-Estudos\DirectoryEDirectoryInfo\DirectoryEDirectoryInfo\obj\Debug\net8.0\DirectoryEDirectoryInfo.AssemblyInfo.cs
+C:\Codigos\Estudo\Csharp-Estudos\DirectoryEDirectoryInfo\DirectoryEDirectoryInfo\obj\Debug\net8.0\DirectoryEDirectoryInfo.csproj.CoreCompileInputs.cache
+C:\Codigos\Estudo\Csharp-Estudos\DirectoryEDirectoryInfo\DirectoryEDirectoryInfo\obj\Debug\net8.0\DirectoryEDirectoryInfo.sourcelink.json
+C:\Codigos\Estudo\Csharp-Estudos\DirectoryEDirectoryInfo\DirectoryEDirectoryInfo\obj\Debug\net8.0\DirectoryEDirectoryInfo.dll
+C:\Codigos\Estudo\Csharp-Estudos\DirectoryEDirectoryInfo\DirectoryEDirectoryInfo\obj\Debug\net8.0\refint\DirectoryEDirectoryInfo.dll
+C:\Codigos\Estudo\Csharp-Estudos\DirectoryEDirectoryInfo\DirectoryEDirectoryInfo\obj\Debug\net8.0\DirectoryEDirectoryInfo.pdb
+C:\Codigos\Estudo\Csharp-Estudos\DirectoryEDirectoryInfo\DirectoryEDirectoryInfo\obj\Debug\net8.0\DirectoryEDirectoryInfo.genruntimeconfig.cache
+C:\Codigos\Estudo\Csharp-Estudos\DirectoryEDirectoryInfo\DirectoryEDirectoryInfo\obj\Debug\net8.0\ref\DirectoryEDirectoryInfo.dll

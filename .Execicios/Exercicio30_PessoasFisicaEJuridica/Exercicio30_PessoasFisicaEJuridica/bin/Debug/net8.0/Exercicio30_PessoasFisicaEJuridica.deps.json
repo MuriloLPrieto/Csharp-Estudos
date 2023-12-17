@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Exercicio30_PessoasFisicaEJuridica/1.0.0": {
+        "runtime": {
+          "Exercicio30_PessoasFisicaEJuridica.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio30_PessoasFisicaEJuridica/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

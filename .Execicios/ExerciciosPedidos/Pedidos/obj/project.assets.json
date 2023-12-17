@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Codigos\\Estudo\\Csharp-Estudos\\.Execicios\\Pedidos\\Pedidos\\Pedidos.csproj",
+      "projectUniqueName": "C:\\Codigos\\Estudo\\Csharp-Estudos\\.Execicios\\ExerciciosPedidos\\Pedidos\\Pedidos.csproj",
       "projectName": "Pedidos",
-      "projectPath": "C:\\Codigos\\Estudo\\Csharp-Estudos\\.Execicios\\Pedidos\\Pedidos\\Pedidos.csproj",
+      "projectPath": "C:\\Codigos\\Estudo\\Csharp-Estudos\\.Execicios\\ExerciciosPedidos\\Pedidos\\Pedidos.csproj",
       "packagesPath": "C:\\Users\\muril\\.nuget\\packages\\",
-      "outputPath": "C:\\Codigos\\Estudo\\Csharp-Estudos\\.Execicios\\Pedidos\\Pedidos\\obj\\",
+      "outputPath": "C:\\Codigos\\Estudo\\Csharp-Estudos\\.Execicios\\ExerciciosPedidos\\Pedidos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

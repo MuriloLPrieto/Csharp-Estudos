@@ -1,0 +1,15 @@
+C:\Codigos\Estudo\Csharp-Estudos\CriandoExecoes\CriandoExecoes\bin\Debug\net8.0\CriandoExecoes.exe
+C:\Codigos\Estudo\Csharp-Estudos\CriandoExecoes\CriandoExecoes\bin\Debug\net8.0\CriandoExecoes.deps.json
+C:\Codigos\Estudo\Csharp-Estudos\CriandoExecoes\CriandoExecoes\bin\Debug\net8.0\CriandoExecoes.runtimeconfig.json
+C:\Codigos\Estudo\Csharp-Estudos\CriandoExecoes\CriandoExecoes\bin\Debug\net8.0\CriandoExecoes.dll
+C:\Codigos\Estudo\Csharp-Estudos\CriandoExecoes\CriandoExecoes\bin\Debug\net8.0\CriandoExecoes.pdb
+C:\Codigos\Estudo\Csharp-Estudos\CriandoExecoes\CriandoExecoes\obj\Debug\net8.0\CriandoExecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codigos\Estudo\Csharp-Estudos\CriandoExecoes\CriandoExecoes\obj\Debug\net8.0\CriandoExecoes.AssemblyInfoInputs.cache
+C:\Codigos\Estudo\Csharp-Estudos\CriandoExecoes\CriandoExecoes\obj\Debug\net8.0\CriandoExecoes.AssemblyInfo.cs
+C:\Codigos\Estudo\Csharp-Estudos\CriandoExecoes\CriandoExecoes\obj\Debug\net8.0\CriandoExecoes.csproj.CoreCompileInputs.cache
+C:\Codigos\Estudo\Csharp-Estudos\CriandoExecoes\CriandoExecoes\obj\Debug\net8.0\CriandoExecoes.sourcelink.json
+C:\Codigos\Estudo\Csharp-Estudos\CriandoExecoes\CriandoExecoes\obj\Debug\net8.0\CriandoExecoes.dll
+C:\Codigos\Estudo\Csharp-Estudos\CriandoExecoes\CriandoExecoes\obj\Debug\net8.0\refint\CriandoExecoes.dll
+C:\Codigos\Estudo\Csharp-Estudos\CriandoExecoes\CriandoExecoes\obj\Debug\net8.0\CriandoExecoes.pdb
+C:\Codigos\Estudo\Csharp-Estudos\CriandoExecoes\CriandoExecoes\obj\Debug\net8.0\CriandoExecoes.genruntimeconfig.cache
+C:\Codigos\Estudo\Csharp-Estudos\CriandoExecoes\CriandoExecoes\obj\Debug\net8.0\ref\CriandoExecoes.dll

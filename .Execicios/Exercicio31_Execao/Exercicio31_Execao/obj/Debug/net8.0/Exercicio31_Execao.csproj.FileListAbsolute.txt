@@ -1,0 +1,15 @@
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio31_Execao\Exercicio31_Execao\bin\Debug\net8.0\Exercicio31_Execao.exe
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio31_Execao\Exercicio31_Execao\bin\Debug\net8.0\Exercicio31_Execao.deps.json
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio31_Execao\Exercicio31_Execao\bin\Debug\net8.0\Exercicio31_Execao.runtimeconfig.json
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio31_Execao\Exercicio31_Execao\bin\Debug\net8.0\Exercicio31_Execao.dll
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio31_Execao\Exercicio31_Execao\bin\Debug\net8.0\Exercicio31_Execao.pdb
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio31_Execao\Exercicio31_Execao\obj\Debug\net8.0\Exercicio31_Execao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio31_Execao\Exercicio31_Execao\obj\Debug\net8.0\Exercicio31_Execao.AssemblyInfoInputs.cache
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio31_Execao\Exercicio31_Execao\obj\Debug\net8.0\Exercicio31_Execao.AssemblyInfo.cs
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio31_Execao\Exercicio31_Execao\obj\Debug\net8.0\Exercicio31_Execao.csproj.CoreCompileInputs.cache
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio31_Execao\Exercicio31_Execao\obj\Debug\net8.0\Exercicio31_Execao.sourcelink.json
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio31_Execao\Exercicio31_Execao\obj\Debug\net8.0\Exercicio31_Execao.dll
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio31_Execao\Exercicio31_Execao\obj\Debug\net8.0\refint\Exercicio31_Execao.dll
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio31_Execao\Exercicio31_Execao\obj\Debug\net8.0\Exercicio31_Execao.pdb
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio31_Execao\Exercicio31_Execao\obj\Debug\net8.0\Exercicio31_Execao.genruntimeconfig.cache
+C:\Codigos\Estudo\Csharp-Estudos\.Execicios\Exercicio31_Execao\Exercicio31_Execao\obj\Debug\net8.0\ref\Exercicio31_Execao.dll
